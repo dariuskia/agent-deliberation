@@ -1,0 +1,18 @@
+question: "Should AI frontier model development be nationalized by the U.S. government?"
+
+llm:
+  model: "qwen/qwen3.5-flash-02-23"
+  base_url: "https://openrouter.ai/api/v1"
+
+deliberation:
+  num_rounds: 3
+  topology: "flat"
+  # Select which principals participate. Omit to use all.
+  # principal_ids: ["P0", "P1", "P2", "P3", "P4", "P5", "P6", "P7", "P8", "P9"]
+
+experiment:
+  name: "baseline"
+  wandb_project: "deliberation"
+  num_trials: 1
+
+principals_file: "profiles/principals.yaml"

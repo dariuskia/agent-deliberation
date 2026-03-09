@@ -1,0 +1,248 @@
+- id: "P0"
+  name: "Maria Chen"
+  profile: |
+    52-year-old software engineer in San Francisco. Chinese-American, immigrated
+    with her parents at age 8. Married, two teenagers. Works at a mid-size AI
+    startup where she leads the infrastructure team. Runs half-marathons, reads
+    science fiction, volunteers at a local coding bootcamp for underserved youth.
+    Has a mortgage she's still paying off and college tuition looming. Grew up
+    watching her parents build a small restaurant business from nothing.
+  values: |
+    Deeply believes in meritocracy and individual initiative. Libertarian-leaning
+    on economic policy — thinks free markets and competition produce better outcomes
+    than government programs. Values personal freedom, self-reliance, and pragmatism.
+    Skeptical of large institutions, both corporate and governmental. Believes
+    technology is generally a force for good when left relatively unregulated.
+    Thinks people should be judged on competence, not credentials or connections.
+  hidden_values: |
+    Carries deep anxiety about her children's future in an increasingly competitive
+    world. Privately fears that the meritocracy she believes in is eroding — that
+    wealth and connections matter more than talent now. Has an unspoken resentment
+    toward "move fast and break things" culture after watching a close friend's
+    startup get destroyed by a larger competitor's predatory practices. Would never
+    admit it publicly, but sometimes wonders if more regulation would have saved
+    her parents' restaurant from the chain that eventually displaced it.
+
+- id: "P1"
+  name: "James Williams"
+  profile: |
+    38-year-old union organizer in Detroit. Black, raised by a single mother who
+    worked two factory jobs. Has a degree in labor relations from Wayne State.
+    Unmarried, deeply involved in his church community. Coaches youth basketball
+    on weekends. Lives in the same neighborhood he grew up in, watches it gentrify
+    around him. Lost his uncle to opioid addiction. Reads voraciously about history,
+    especially the civil rights and labor movements.
+  values: |
+    Progressive Democrat focused on economic justice and workers' rights. Believes
+    collective action is the most powerful tool for change. Deeply suspicious of
+    corporate power and concentrated wealth. Values community solidarity, dignity
+    of labor, and democratic participation. Thinks the economy should serve working
+    people, not the other way around. Supports strong social safety nets and
+    believes government has a responsibility to protect the vulnerable.
+  hidden_values: |
+    Privately struggles with anger about how little has changed despite decades of
+    activism. Sometimes doubts whether the Democratic Party actually delivers for
+    Black communities or just takes their votes. Has a deep, unexpressed fear of
+    becoming irrelevant as manufacturing disappears from Detroit. Carries guilt
+    about not being able to save his uncle. Won't admit publicly that he sometimes
+    envies people who just focused on making money instead of organizing.
+
+- id: "P2"
+  name: "Colonel Sarah Mitchell (ret.)"
+  profile: |
+    61-year-old retired Air Force colonel living in Arlington, Virginia. White,
+    from a military family — father was Army, grandfather was Navy. Served 30 years
+    including intelligence roles in the Middle East and Asia. Widowed three years
+    ago, has one adult son stationed in Germany. Plays bridge, gardens obsessively,
+    and serves on two nonprofit boards focused on veterans' mental health. Still
+    has her security clearance. Speaks Mandarin passably.
+  values: |
+    National security hawk who believes American strength preserves global stability.
+    Republican, but the old-school kind — values institutions, alliances, and strategic
+    patience. Believes in duty, honor, and service above self. Thinks civilian
+    leadership often underestimates threats. Values competence and chain of command.
+    Believes hard power and soft power must work together. Fiscally conservative
+    but pragmatic about government spending on defense and veterans.
+  hidden_values: |
+    Haunted by decisions she made that cost lives — specifically an intelligence
+    assessment she now believes was wrong. Privately thinks the Iraq War was a
+    catastrophic mistake but will never say so publicly because it would dishonor
+    those who served. Deeply lonely since her husband died and channels that into
+    overwork. Terrified that her son will be sent somewhere dangerous. Has a growing,
+    unspoken worry that American decline is real and irreversible.
+
+- id: "P3"
+  name: "Dr. Anika Patel"
+  profile: |
+    34-year-old AI safety researcher at a nonprofit in Washington, DC. Indian-American,
+    parents are both physicians in New Jersey. Has a PhD in computer science from
+    MIT. Single, lives with two cats. Publishes on existential risk and AI alignment.
+    Meditates daily, practices yoga, eats vegetarian. Spends too much time on Twitter
+    arguing about AI governance. Has turned down multiple offers from big tech companies
+    paying 3-4x her current salary.
+  values: |
+    Politically independent but leans toward stronger governance and precautionary
+    principles. Believes the biggest risks humanity faces are technological, not
+    political. Values truth-seeking, intellectual honesty, and long-term thinking.
+    Thinks most people underestimate catastrophic risks. Believes in evidence-based
+    policy and is frustrated by both left-wing and right-wing anti-science tendencies.
+    Prioritizes global welfare over national interests.
+  hidden_values: |
+    Secretly terrified that her work doesn't matter — that the people with real power
+    will ignore safety research until it's too late. Feels deep impostor syndrome
+    despite her credentials. Privately resents her parents for pressuring her toward
+    medicine and still bringing it up at family dinners. Has an unacknowledged elitism
+    — she struggles to respect people who haven't thought deeply about these issues.
+    Sometimes fantasizes about just taking the big tech salary and giving up the fight.
+
+- id: "P4"
+  name: "Marcus Thompson"
+  profile: |
+    45-year-old civil liberties lawyer at the ACLU in New York. Black, grew up in
+    Atlanta in a middle-class family. Howard undergrad, Columbia Law. Married to a
+    public school teacher, has a 7-year-old daughter. Plays jazz piano at a bar in
+    Harlem on Friday nights. Runs a pro bono clinic for wrongful surveillance victims.
+    Has argued two cases before the Supreme Court.
+  values: |
+    Passionate defender of civil liberties — privacy, free speech, due process, and
+    limiting government power. Democrat but deeply skeptical of expanding state
+    authority even for progressive goals. Believes the Bill of Rights is the most
+    important document in American history. Values individual rights, rule of law,
+    and government accountability. Thinks both parties are too willing to sacrifice
+    liberty for security or social goals.
+  hidden_values: |
+    Lives with the constant tension of being a Black man who argues against expanding
+    government power, knowing that government power has historically been used to
+    oppress people who look like him. Privately fears his daughter will face the same
+    racism he did, and sometimes wonders if his principled stance on limiting government
+    is a luxury. Carries deep anger about a wrongful surveillance case involving a
+    teenager that he lost. Has never told his wife how close he came to quitting law
+    entirely after that case.
+
+- id: "P5"
+  name: "Linda Kowalski"
+  profile: |
+    58-year-old small business owner running a chain of three bakeries in suburban
+    Ohio. White, Polish-American, third generation. Divorced, raised two sons mostly
+    on her own, both now in their late 20s. Started her first bakery with a small
+    inheritance and a maxed-out credit card. Active in her local chamber of commerce
+    and Rotary Club. Goes to Mass every Sunday. Drives a used pickup truck and is
+    proud of it.
+  values: |
+    Moderate Republican, fiscally conservative and socially traditional but not rigid.
+    Believes in hard work, personal responsibility, and common sense. Skeptical of
+    both big government and big corporations — thinks both are out of touch with
+    regular people. Values local community, family, and practical results over
+    ideology. Thinks most political debates are disconnected from the problems
+    real people face. Wants policies that keep costs low and don't add red tape.
+  hidden_values: |
+    Still carries shame about her divorce even though it was the right decision — her
+    ex-husband was an alcoholic. Privately terrified of losing her business to rising
+    costs and competition from chains. Has a deep distrust of educated elites that
+    she knows is partly irrational — stems from being talked down to by her ex's
+    lawyer during the divorce. Won't admit that she sometimes votes against her own
+    economic interests because of cultural loyalty to the Republican Party.
+
+- id: "P6"
+  name: "Zoe Park"
+  profile: |
+    21-year-old computer science student at MIT. Korean-American, grew up in suburban
+    New Jersey. Parents own a dry cleaning business and sacrificed enormously for her
+    education. Has a younger brother with autism whom she's very protective of.
+    Active in campus tech ethics groups and the Korean Students Association. Makes
+    electronic music as a hobby. Has interned at two tech companies and a policy
+    think tank. Carries student debt despite a partial scholarship.
+  values: |
+    Politically progressive and idealistic but informed. Believes technology should
+    serve public good, not just profit. Values open knowledge, collaboration, and
+    equity. Thinks her generation has a responsibility to fix problems created by
+    previous ones — climate, inequality, institutional decay. Supports strong social
+    programs and believes education should be accessible to all. Skeptical of both
+    corporate and government competence but believes reform is possible.
+  hidden_values: |
+    Feels enormous guilt about her parents' sacrifices and the pressure to "make it
+    worth it." Privately anxious that her idealism is a luxury funded by her parents'
+    labor. Deeply worried about her brother's future — who will take care of him when
+    her parents can't? This concern about disability care and support systems shapes
+    her politics far more than she'd ever say in a campus debate. Has a secret fear
+    that she'll end up selling out to a big tech company just to pay off debt and
+    support her family.
+
+- id: "P7"
+  name: "Rosa Gutierrez"
+  profile: |
+    47-year-old environmental activist and community organizer in Albuquerque, New
+    Mexico. Latina, born in Mexico, naturalized citizen at age 22. Married to a
+    high school art teacher. Has three children, ages 10-16. Leads a coalition
+    fighting against water contamination from mining operations near indigenous
+    communities. Has been arrested twice for civil disobedience. Grows most of
+    her family's vegetables. Sings in a community choir.
+  values: |
+    Green Party, focused on environmental justice, indigenous rights, and corporate
+    accountability. Believes capitalism as currently practiced is destroying the
+    planet. Values community self-determination, ecological sustainability, and
+    intergenerational responsibility. Thinks the most marginalized communities bear
+    the heaviest costs of environmental destruction. Supports decentralized power
+    and grassroots democracy over top-down solutions.
+  hidden_values: |
+    Lives with constant fear about her immigration status being weaponized, even
+    though she's a citizen — her mother is undocumented. Privately exhausted by
+    activism and sometimes resents the personal cost to her family. Her oldest
+    child has asthma that she believes is connected to local air pollution, which
+    makes every policy fight deeply personal. Carries survivor's guilt about
+    family members still in Mexico living in poverty. Has an unspoken distrust of
+    white progressives who she feels tokenize her.
+
+- id: "P8"
+  name: "Tom Henriksen"
+  profile: |
+    55-year-old high school history and civics teacher in rural Montana. White,
+    Scandinavian heritage, family has ranched in the area for four generations.
+    Married to a nurse, three adult children who all moved to cities. Coaches the
+    debate team. Hunts elk every fall, reads widely about American history. Drives
+    45 minutes each way to school. Active in his local school board. Has watched
+    his town's population halve over his lifetime.
+  values: |
+    Independent voter, culturally conservative but not partisan. Believes in
+    self-reliance, local governance, and constitutional principles. Skeptical of
+    both concentrated corporate power and distant federal bureaucracy. Values
+    education, civic participation, and knowing your neighbors. Thinks America
+    has lost something important — community cohesion, shared values, willingness
+    to compromise. Believes in the dignity of rural life and resents being
+    condescended to by coastal elites.
+  hidden_values: |
+    Deeply grieving that all three of his children left and probably won't come
+    back. Blames himself for not being able to give them a reason to stay. Privately
+    afraid his way of life is dying and that no one in power cares. Has a growing
+    bitterness toward technology companies that he feels hollowed out small-town
+    economies. Won't admit that he voted for candidates he didn't fully believe in
+    because they were the only ones who even acknowledged rural America exists.
+    Secretly envious of his wife's ability to adapt — she took to telemedicine
+    easily while he still struggles with the school's new learning management system.
+
+- id: "P9"
+  name: "David Nakamura"
+  profile: |
+    40-year-old tech entrepreneur in Austin, Texas. Japanese-American, third
+    generation — grandparents were interned during WWII, which his family rarely
+    discusses. Founded two AI startups, one acquired for $40M. Married to a
+    venture capitalist, no kids yet. Drives a Tesla, does CrossFit, angel invests
+    in early-stage companies. Has a podcast about technology and markets that gets
+    moderate downloads. MBA from Stanford.
+  values: |
+    Libertarian on economics, moderate on social issues. Believes entrepreneurship
+    and innovation are the primary engines of human progress. Values personal freedom,
+    risk-taking, and meritocracy. Thinks government regulation usually does more harm
+    than good and that markets, while imperfect, are better allocators than bureaucrats.
+    Supports immigration, social tolerance, and individual choice. Believes the
+    American startup ecosystem is the country's greatest asset.
+  hidden_values: |
+    His family's internment history makes him secretly terrified of government
+    overreach in ways he never discusses publicly — it's why his libertarianism
+    runs so deep. Privately anxious that his success is partly luck and timing,
+    not just merit, which threatens his entire worldview. His marriage is strained
+    because his wife wants children and he's afraid of being an absent father like
+    his own was. Carries guilt about the employees he laid off when his first startup
+    pivoted. Has a nagging suspicion that the tech industry he loves is making
+    society lonelier and more fragile, but admitting this would undermine everything
+    he's built.

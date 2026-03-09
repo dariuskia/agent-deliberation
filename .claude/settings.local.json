@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx tsc:*)",
+      "Bash(echo:*)",
+      "Bash(npx vite build:*)",
+      "Bash(.venv/bin/python3 -c \":*)",
+      "Bash(.venv/bin/python3 -c \"import pyarrow; print\\(pyarrow.__version__\\)\")",
+      "Bash(uv pip install --reinstall pyarrow --python .venv/bin/python3)",
+      "Bash(.venv/bin/python3:*)"
+    ]
+  }
+}
