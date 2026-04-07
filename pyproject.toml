@@ -10,6 +10,7 @@ dependencies = [
     "sse-starlette>=2.0",
     "python-dotenv>=1.0",
     "wandb>=0.17",
+    "matplotlib>=3.8",
 ]
 
 [tool.setuptools]

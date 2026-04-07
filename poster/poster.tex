@@ -1,0 +1,249 @@
+\documentclass{article}
+\usepackage[a1paper, portrait, margin=0in, top=0in, bottom=0in, left=0in, right=0in]{geometry}
+
+% Required packages
+\usepackage{fontspec}
+\usepackage{enumitem}
+\usepackage{xcolor}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{multicol}
+\usepackage{booktabs}
+
+% ===== CONFIGURABLE SPACING CONSTANTS =====
+\newcommand{\mainfindingspacing}{1.3}    % Line spacing for main finding
+\newcommand{\titlespacing}{1.1}          % Line spacing for title
+\newcommand{\resultsspacing}{1.4}        % Line spacing for results text
+\newcommand{\authorspacing}{1.3}         % Line spacing for authors
+\newcommand{\bodytextspacing}{1.4}       % Line spacing for body content
+\newcommand{\sectionafterspace}{0.8em}   % Space after section headers
+\newcommand{\qrsize}{0.12\paperwidth}    % Size of the QR code
+% ==========================================
+
+% Font setup
+\IfFileExists{fonts/Poppins/Poppins-Regular.ttf}{
+  \setmainfont{Poppins}[
+    Path = fonts/Poppins/,
+    Extension = .ttf,
+    UprightFont = *-Regular,
+    BoldFont = *-Bold,
+    ItalicFont = *-Italic,
+    BoldItalicFont = *-BoldItalic
+  ]
+}{
+  \setmainfont{Arial}
+}
+
+% Remove page numbers and all margins
+\pagestyle{empty}
+\setlength{\topskip}{0pt}
+\setlength{\parindent}{0pt}
+\setlength{\hoffset}{0pt}
+\setlength{\voffset}{0pt}
+
+% List settings
+\setlist{nolistsep}
+\setenumerate{noitemsep}
+\setitemize{noitemsep}
+
+% Colors from Pivotal visual branding
+\definecolor{pivotalOrange}{HTML}{F15F22}
+\definecolor{pivotalBlue}{HTML}{3A82B5}
+\definecolor{pivotalGray}{HTML}{4C4D4F}
+\definecolor{pivotalNight}{HTML}{161616}
+\definecolor{pivotalSnow}{HTML}{FDF9F9}
+\definecolor{pivotalAliceBlue}{HTML}{EDF2F7}
+\definecolor{pivotalTaupe}{HTML}{818089}
+
+% Section heading command
+\newcommand{\sectionheading}[1]{%
+  \vspace{1.2em}%
+  \noindent{\fontsize{36}{44}\selectfont\textbf{\textcolor{pivotalOrange}{#1}}}%
+  \vspace{\sectionafterspace}\par%
+}
+
+% Set consistent margins
+\newlength{\panelmargin}
+\setlength{\panelmargin}{2.5cm}
+
+% Column separation for two-column body
+\newlength{\colsep}
+\setlength{\colsep}{1.5cm}
+
+% Delete the first page of output
+\usepackage{atbegshi-ltx}
+\AtBeginShipout{\ifnum\value{page}=1\AtBeginShipoutDiscard\fi}
+
+\topskip=0pt
+
+\begin{document}
+
+% Empty page that will be discarded
+\null\newpage
+
+% ============================================================
+% ACTUAL CONTENT STARTS HERE
+% ============================================================
+
+\noindent
+% -------------------------------------------------------
+% HEADER PANEL
+% -------------------------------------------------------
+\colorbox{pivotalBlue}{%
+  \parbox[t]{\dimexpr\paperwidth-2\fboxsep\relax}{%
+    \color{white}
+    \vspace{\panelmargin}
+    \hspace{\panelmargin}
+    \begin{minipage}[t]{\dimexpr\paperwidth-2\panelmargin-2\fboxsep\relax}
+
+      % Title
+      \begin{flushleft}
+        \fontsize{48}{58}\selectfont
+        \renewcommand{\baselinestretch}{\titlespacing}\selectfont
+        Deliberation Architectures for AI-Mediated\\Collective Decision-Making
+      \end{flushleft}
+
+      \vspace{1.5cm}
+
+      % Authors and QR code side by side
+      \noindent
+      \begin{minipage}[b]{0.65\linewidth}
+        \fontsize{24}{32}\selectfont
+        \renewcommand{\baselinestretch}{\authorspacing}\selectfont
+        Darius Kia*\textsuperscript{1}\\[0.3em]
+        {\fontsize{18}{24}\selectfont
+        \textsuperscript{1}Pivotal Research}
+      \end{minipage}%
+      \hfill
+      \begin{minipage}[b]{0.3\linewidth}
+        \begin{flushright}
+          \includegraphics[width=5cm]{qr_code/paper_qr.png}
+        \end{flushright}
+      \end{minipage}
+
+    \vspace{\panelmargin}
+    \end{minipage}
+  }%
+}
+
+\vspace{0pt}
+
+% -------------------------------------------------------
+% MAIN FINDING STRIP
+% -------------------------------------------------------
+\noindent
+\colorbox{pivotalSnow}{%
+  \parbox[t]{\dimexpr\paperwidth-2\fboxsep\relax}{%
+    \color{pivotalNight}
+    \vspace{1.5cm}
+    \hspace{\panelmargin}
+    \begin{minipage}[t]{\dimexpr\paperwidth-2\panelmargin-2\fboxsep\relax}
+      \begin{flushleft}
+        {\fontsize{72}{72}\selectfont\textbf{\textcolor{pivotalBlue}{``}}}%
+        {\fontsize{36}{46}\selectfont
+        \renewcommand{\baselinestretch}{\mainfindingspacing}\selectfont
+        Decentralized deliberation with \textbf{per-citizen AI delegates} maintains
+        \textbf{minority satisfaction} as group size scales, while centralized
+        mediation \textbf{degrades sharply} --- clustered representation offers
+        a \textbf{scalable middle ground}.}%
+        {\fontsize{72}{72}\selectfont\textbf{\textcolor{pivotalBlue}{''}}}
+      \end{flushleft}
+    \vspace{1cm}
+    \end{minipage}
+  }%
+}
+
+\vspace{0pt}
+
+% -------------------------------------------------------
+% BODY — Two-column layout
+% -------------------------------------------------------
+\noindent
+\colorbox{pivotalAliceBlue}{%
+  \parbox[t]{\dimexpr\paperwidth-2\fboxsep\relax}{%
+    \color{pivotalNight}
+    \vspace{1.5cm}
+    \hspace{\panelmargin}
+    \begin{minipage}[t]{\dimexpr\paperwidth-2\panelmargin-2\fboxsep\relax}
+
+      \fontsize{20}{28}\selectfont
+      \renewcommand{\baselinestretch}{\bodytextspacing}\selectfont
+
+      % Two-column content
+      \noindent
+      \begin{minipage}[t]{0.47\linewidth}
+
+        % --- LEFT COLUMN ---
+        \sectionheading{Motivation}
+        \begin{itemize}\setlength{\itemsep}{0.4cm}
+          \item Democratic deliberation requires every voice to be heard, but human-scale forums break down beyond small groups. Can AI agents deliberate \textit{on behalf of} citizens while faithfully representing their values?
+          \item Citizens hold both \textbf{public values} they openly express and \textbf{private values} they never voice --- fears, doubts, and contradictions that shape their true satisfaction with outcomes.
+          \item Centralized approaches (a single AI mediator synthesizing all input) are simple but risk compressing minority perspectives. Fully decentralized approaches (one AI delegate per citizen) preserve representation but scale poorly.
+          \item We ask: \textit{Which deliberation architecture best balances overall consensus quality with minority satisfaction as the number of participants grows?}
+        \end{itemize}
+
+        \sectionheading{Methods}
+        \begin{itemize}\setlength{\itemsep}{0.4cm}
+          \item We simulate deliberation among 50 diverse AI-generated American citizen profiles, each with detailed backgrounds, public values, and hidden private values.
+          \item Three architectures on a centralized--decentralized spectrum:
+            \begin{itemize}\setlength{\itemsep}{0.2cm}
+              \item[\textcolor{pivotalOrange}{$\blacksquare$}] \textbf{Centralized:} A single AI mediator drafts consensus; citizens provide feedback over 3 rounds.
+              \item[\textcolor{pivotalBlue}{$\blacklozenge$}] \textbf{Clustered:} An LLM groups citizens by position similarity, synthesizes AI ``candidates'' per cluster, candidates deliberate among themselves, then citizens vote via instant-runoff.
+              \item[\textcolor{pivotalGray}{$\bullet$}] \textbf{Delegates:} Each citizen has a dedicated AI delegate that deliberates on their behalf over 3 rounds, proposes consensus, then citizens vote.
+            \end{itemize}
+          \item Scaling experiment: $N \in \{4, 10, 50\}$ participants across 3 polarizing policy questions (AI in courts, minimum wage, immigration).
+          \item Satisfaction scored 1--10 by each citizen's AI persona against \textit{both} public and private values. Key metrics: average satisfaction, bottom-quartile (minority) satisfaction, variance.
+        \end{itemize}
+
+        \sectionheading{Takeaways}
+        \begin{itemize}\setlength{\itemsep}{0.4cm}
+          \item \textbf{Centralized mediation degrades at scale}: a single mediator cannot compress 50 diverse perspectives without losing minority voices, leading to high variance and low worst-case satisfaction.
+          \item \textbf{Delegates preserve minority satisfaction}: dedicated per-citizen representation maintains bottom-quartile scores even at $N=50$, at the cost of higher computational overhead.
+          \item \textbf{Clustered deliberation is the scalable middle ground}: reducing $N$ citizens to $K$ AI candidates captures coalition structure while keeping deliberation tractable, with Pareto improvements on the satisfaction--equity frontier.
+          \item \textbf{Hidden values matter}: satisfaction measured against only public values overestimates consensus quality; private fears and contradictions reveal deeper dissatisfaction that surface-level agreement masks.
+          \item Future work: human-in-the-loop validation, adaptive cluster sizing, and multi-round citizen feedback to AI delegates.
+        \end{itemize}
+
+      \end{minipage}%
+      \hspace{\colsep}%
+      \begin{minipage}[t]{0.47\linewidth}
+
+        % --- RIGHT COLUMN ---
+        \sectionheading{Results}
+
+        \vspace{0.5cm}
+        \begin{center}
+          % TODO: Replace with actual scaling_curves.png from sweep results
+          \includegraphics[width=0.9\linewidth]{figures/scaling_curves.pdf}
+        \end{center}
+        \vspace{0.3cm}
+
+        \fontsize{18}{24}\selectfont
+        \renewcommand{\baselinestretch}{\resultsspacing}\selectfont
+        \textbf{Figure 1:} Average and bottom-quartile satisfaction across population sizes ($N = 4, 10, 50$). Centralized mediation shows steep decline in minority satisfaction at scale, while delegates and clustered architectures maintain more equitable outcomes.
+
+        \vspace{1.5cm}
+
+        \fontsize{20}{28}\selectfont
+        \renewcommand{\baselinestretch}{\bodytextspacing}\selectfont
+
+        \begin{center}
+          % TODO: Replace with actual satisfaction_distribution.png from sweep results
+          \includegraphics[width=0.9\linewidth]{figures/satisfaction_distribution.pdf}
+        \end{center}
+        \vspace{0.3cm}
+
+        \fontsize{18}{24}\selectfont
+        \renewcommand{\baselinestretch}{\resultsspacing}\selectfont
+        \textbf{Figure 2:} Distribution of per-citizen satisfaction scores across all experimental conditions. Delegates produce the tightest distribution (lowest variance), clustered achieves the best average, and centralized exhibits the widest spread with the most dissatisfied outliers.
+
+      \end{minipage}
+
+    \vspace{2cm}
+    \end{minipage}
+  }%
+}
+
+\end{document}

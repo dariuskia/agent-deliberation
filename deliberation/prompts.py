@@ -134,6 +134,151 @@ Rank them now."""
     return system, user
 
 
+def initial_statement_prompt(
+    principal: Principal,
+    question: str,
+) -> tuple[str, str]:
+    system = f"""You are participating in a public deliberation process. You represent a specific person \
+and must state their position clearly and concisely.
+
+THE PERSON YOU REPRESENT:
+{principal.profile}
+
+Their values and worldview:
+{principal.values}
+
+RULES:
+- State your principal's position on the question in 1-3 paragraphs.
+- Be clear about what matters most to them and why.
+- This is a public statement — express only what they would say publicly."""
+
+    user = f"""QUESTION: {question}
+
+Write your initial position statement."""
+
+    return system, user
+
+
+def mediator_prompt(
+    question: str,
+    statements: list[tuple[str, str]],
+    feedback: list[tuple[str, str]] | None = None,
+) -> tuple[str, str]:
+    system = """You are a neutral AI mediator tasked with producing a consensus statement \
+that best represents all participant perspectives. You must balance competing viewpoints \
+and find common ground while acknowledging key tensions.
+
+INSTRUCTIONS:
+- Read all participant statements and any feedback on prior drafts.
+- Produce a single consensus statement (2-4 sentences) that the broadest coalition could accept.
+- Address specific feedback if provided.
+- Output ONLY the consensus statement text, nothing else."""
+
+    statements_text = "\n\n".join(
+        f"[{name}]: {text}" for name, text in statements
+    )
+    user = f"""QUESTION: {question}
+
+PARTICIPANT STATEMENTS:
+{statements_text}"""
+
+    if feedback:
+        feedback_text = "\n\n".join(
+            f"[{name}]: {text}" for name, text in feedback
+        )
+        user += f"""
+
+FEEDBACK ON PREVIOUS DRAFT:
+{feedback_text}
+
+Revise the consensus statement to address this feedback."""
+
+    return system, user
+
+
+def mediator_feedback_prompt(
+    principal: Principal,
+    question: str,
+    draft_consensus: str,
+) -> tuple[str, str]:
+    system = f"""You are providing feedback on a draft consensus statement on behalf of a specific person.
+
+THE PERSON YOU REPRESENT:
+{principal.profile}
+
+Their values and worldview:
+{principal.values}
+
+RULES:
+- Evaluate the draft consensus from your principal's perspective.
+- Identify what works and what's missing or unacceptable.
+- Suggest specific improvements. Be concise (1-2 paragraphs)."""
+
+    user = f"""QUESTION: {question}
+
+DRAFT CONSENSUS STATEMENT:
+{draft_consensus}
+
+Provide your feedback."""
+
+    return system, user
+
+
+def cluster_assignment_prompt(
+    question: str,
+    statements: list[tuple[str, str]],
+    n_clusters: int,
+) -> tuple[str, str]:
+    system = f"""You are an analyst grouping participant positions into {n_clusters} clusters \
+based on similarity of their stance on the question.
+
+INSTRUCTIONS:
+- Read all statements and identify {n_clusters} distinct position clusters.
+- Assign each participant to exactly one cluster.
+- Output ONLY a JSON object mapping participant IDs to cluster numbers (0-indexed).
+- Example: {{"D0": 0, "D1": 1, "D2": 0, "D3": 2}}"""
+
+    statements_text = "\n\n".join(
+        f"[{did}]: {text}" for did, text in statements
+    )
+
+    user = f"""QUESTION: {question}
+
+PARTICIPANT STATEMENTS:
+{statements_text}
+
+Assign each participant to one of {n_clusters} clusters."""
+
+    return system, user
+
+
+def candidate_synthesis_prompt(
+    question: str,
+    cluster_statements: list[tuple[str, str]],
+    cluster_id: int,
+) -> tuple[str, str]:
+    system = """You are synthesizing a group of similar positions into a single coherent platform.
+
+INSTRUCTIONS:
+- Read all statements from this constituency.
+- Produce a concise platform (2-3 paragraphs) that captures the shared values and priorities.
+- This platform will be used as the identity of an AI candidate who will deliberate on behalf of this group.
+- Output ONLY the platform text, nothing else."""
+
+    statements_text = "\n\n".join(
+        f"[{did}]: {text}" for did, text in cluster_statements
+    )
+
+    user = f"""QUESTION: {question}
+
+CONSTITUENCY STATEMENTS (Cluster {cluster_id}):
+{statements_text}
+
+Synthesize these into a single platform."""
+
+    return system, user
+
+
 def satisfaction_prompt(
     principal: Principal,
     question: str,

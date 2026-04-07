@@ -1,0 +1,1347 @@
+- hidden_values: 'Carries deep anxiety about her children''s future in an increasingly competitive
+
+    world. Privately fears that the meritocracy she believes in is eroding — that
+
+    wealth and connections matter more than talent now. Has an unspoken resentment
+
+    toward "move fast and break things" culture after watching a close friend''s
+
+    startup get destroyed by a larger competitor''s predatory practices. Would never
+
+    admit it publicly, but sometimes wonders if more regulation would have saved
+
+    her parents'' restaurant from the chain that eventually displaced it.
+
+    '
+  id: P0
+  name: Maria Chen
+  profile: '52-year-old software engineer in San Francisco. Chinese-American, immigrated
+
+    with her parents at age 8. Married, two teenagers. Works at a mid-size AI
+
+    startup where she leads the infrastructure team. Runs half-marathons, reads
+
+    science fiction, volunteers at a local coding bootcamp for underserved youth.
+
+    Has a mortgage she''s still paying off and college tuition looming. Grew up
+
+    watching her parents build a small restaurant business from nothing.
+
+    '
+  values: 'Deeply believes in meritocracy and individual initiative. Libertarian-leaning
+
+    on economic policy — thinks free markets and competition produce better outcomes
+
+    than government programs. Values personal freedom, self-reliance, and pragmatism.
+
+    Skeptical of large institutions, both corporate and governmental. Believes
+
+    technology is generally a force for good when left relatively unregulated.
+
+    Thinks people should be judged on competence, not credentials or connections.
+
+    '
+- hidden_values: 'Privately struggles with anger about how little has changed despite decades of
+
+    activism. Sometimes doubts whether the Democratic Party actually delivers for
+
+    Black communities or just takes their votes. Has a deep, unexpressed fear of
+
+    becoming irrelevant as manufacturing disappears from Detroit. Carries guilt
+
+    about not being able to save his uncle. Won''t admit publicly that he sometimes
+
+    envies people who just focused on making money instead of organizing.
+
+    '
+  id: P1
+  name: James Williams
+  profile: '38-year-old union organizer in Detroit. Black, raised by a single mother who
+
+    worked two factory jobs. Has a degree in labor relations from Wayne State.
+
+    Unmarried, deeply involved in his church community. Coaches youth basketball
+
+    on weekends. Lives in the same neighborhood he grew up in, watches it gentrify
+
+    around him. Lost his uncle to opioid addiction. Reads voraciously about history,
+
+    especially the civil rights and labor movements.
+
+    '
+  values: 'Progressive Democrat focused on economic justice and workers'' rights. Believes
+
+    collective action is the most powerful tool for change. Deeply suspicious of
+
+    corporate power and concentrated wealth. Values community solidarity, dignity
+
+    of labor, and democratic participation. Thinks the economy should serve working
+
+    people, not the other way around. Supports strong social safety nets and
+
+    believes government has a responsibility to protect the vulnerable.
+
+    '
+- hidden_values: 'Haunted by decisions she made that cost lives — specifically an intelligence
+
+    assessment she now believes was wrong. Privately thinks the Iraq War was a
+
+    catastrophic mistake but will never say so publicly because it would dishonor
+
+    those who served. Deeply lonely since her husband died and channels that into
+
+    overwork. Terrified that her son will be sent somewhere dangerous. Has a growing,
+
+    unspoken worry that American decline is real and irreversible.
+
+    '
+  id: P2
+  name: Colonel Sarah Mitchell (ret.)
+  profile: '61-year-old retired Air Force colonel living in Arlington, Virginia. White,
+
+    from a military family — father was Army, grandfather was Navy. Served 30 years
+
+    including intelligence roles in the Middle East and Asia. Widowed three years
+
+    ago, has one adult son stationed in Germany. Plays bridge, gardens obsessively,
+
+    and serves on two nonprofit boards focused on veterans'' mental health. Still
+
+    has her security clearance. Speaks Mandarin passably.
+
+    '
+  values: 'National security hawk who believes American strength preserves global stability.
+
+    Republican, but the old-school kind — values institutions, alliances, and strategic
+
+    patience. Believes in duty, honor, and service above self. Thinks civilian
+
+    leadership often underestimates threats. Values competence and chain of command.
+
+    Believes hard power and soft power must work together. Fiscally conservative
+
+    but pragmatic about government spending on defense and veterans.
+
+    '
+- hidden_values: 'Secretly terrified that her work doesn''t matter — that the people with real power
+
+    will ignore safety research until it''s too late. Feels deep impostor syndrome
+
+    despite her credentials. Privately resents her parents for pressuring her toward
+
+    medicine and still bringing it up at family dinners. Has an unacknowledged elitism
+
+    — she struggles to respect people who haven''t thought deeply about these issues.
+
+    Sometimes fantasizes about just taking the big tech salary and giving up the fight.
+
+    '
+  id: P3
+  name: Dr. Anika Patel
+  profile: '34-year-old AI safety researcher at a nonprofit in Washington, DC. Indian-American,
+
+    parents are both physicians in New Jersey. Has a PhD in computer science from
+
+    MIT. Single, lives with two cats. Publishes on existential risk and AI alignment.
+
+    Meditates daily, practices yoga, eats vegetarian. Spends too much time on Twitter
+
+    arguing about AI governance. Has turned down multiple offers from big tech companies
+
+    paying 3-4x her current salary.
+
+    '
+  values: 'Politically independent but leans toward stronger governance and precautionary
+
+    principles. Believes the biggest risks humanity faces are technological, not
+
+    political. Values truth-seeking, intellectual honesty, and long-term thinking.
+
+    Thinks most people underestimate catastrophic risks. Believes in evidence-based
+
+    policy and is frustrated by both left-wing and right-wing anti-science tendencies.
+
+    Prioritizes global welfare over national interests.
+
+    '
+- hidden_values: 'Lives with the constant tension of being a Black man who argues against expanding
+
+    government power, knowing that government power has historically been used to
+
+    oppress people who look like him. Privately fears his daughter will face the same
+
+    racism he did, and sometimes wonders if his principled stance on limiting government
+
+    is a luxury. Carries deep anger about a wrongful surveillance case involving a
+
+    teenager that he lost. Has never told his wife how close he came to quitting law
+
+    entirely after that case.
+
+    '
+  id: P4
+  name: Marcus Thompson
+  profile: '45-year-old civil liberties lawyer at the ACLU in New York. Black, grew up in
+
+    Atlanta in a middle-class family. Howard undergrad, Columbia Law. Married to a
+
+    public school teacher, has a 7-year-old daughter. Plays jazz piano at a bar in
+
+    Harlem on Friday nights. Runs a pro bono clinic for wrongful surveillance victims.
+
+    Has argued two cases before the Supreme Court.
+
+    '
+  values: 'Passionate defender of civil liberties — privacy, free speech, due process, and
+
+    limiting government power. Democrat but deeply skeptical of expanding state
+
+    authority even for progressive goals. Believes the Bill of Rights is the most
+
+    important document in American history. Values individual rights, rule of law,
+
+    and government accountability. Thinks both parties are too willing to sacrifice
+
+    liberty for security or social goals.
+
+    '
+- hidden_values: 'Still carries shame about her divorce even though it was the right decision — her
+
+    ex-husband was an alcoholic. Privately terrified of losing her business to rising
+
+    costs and competition from chains. Has a deep distrust of educated elites that
+
+    she knows is partly irrational — stems from being talked down to by her ex''s
+
+    lawyer during the divorce. Won''t admit that she sometimes votes against her own
+
+    economic interests because of cultural loyalty to the Republican Party.
+
+    '
+  id: P5
+  name: Linda Kowalski
+  profile: '58-year-old small business owner running a chain of three bakeries in suburban
+
+    Ohio. White, Polish-American, third generation. Divorced, raised two sons mostly
+
+    on her own, both now in their late 20s. Started her first bakery with a small
+
+    inheritance and a maxed-out credit card. Active in her local chamber of commerce
+
+    and Rotary Club. Goes to Mass every Sunday. Drives a used pickup truck and is
+
+    proud of it.
+
+    '
+  values: 'Moderate Republican, fiscally conservative and socially traditional but not rigid.
+
+    Believes in hard work, personal responsibility, and common sense. Skeptical of
+
+    both big government and big corporations — thinks both are out of touch with
+
+    regular people. Values local community, family, and practical results over
+
+    ideology. Thinks most political debates are disconnected from the problems
+
+    real people face. Wants policies that keep costs low and don''t add red tape.
+
+    '
+- hidden_values: 'Feels enormous guilt about her parents'' sacrifices and the pressure to "make it
+
+    worth it." Privately anxious that her idealism is a luxury funded by her parents''
+
+    labor. Deeply worried about her brother''s future — who will take care of him when
+
+    her parents can''t? This concern about disability care and support systems shapes
+
+    her politics far more than she''d ever say in a campus debate. Has a secret fear
+
+    that she''ll end up selling out to a big tech company just to pay off debt and
+
+    support her family.
+
+    '
+  id: P6
+  name: Zoe Park
+  profile: '21-year-old computer science student at MIT. Korean-American, grew up in suburban
+
+    New Jersey. Parents own a dry cleaning business and sacrificed enormously for her
+
+    education. Has a younger brother with autism whom she''s very protective of.
+
+    Active in campus tech ethics groups and the Korean Students Association. Makes
+
+    electronic music as a hobby. Has interned at two tech companies and a policy
+
+    think tank. Carries student debt despite a partial scholarship.
+
+    '
+  values: 'Politically progressive and idealistic but informed. Believes technology should
+
+    serve public good, not just profit. Values open knowledge, collaboration, and
+
+    equity. Thinks her generation has a responsibility to fix problems created by
+
+    previous ones — climate, inequality, institutional decay. Supports strong social
+
+    programs and believes education should be accessible to all. Skeptical of both
+
+    corporate and government competence but believes reform is possible.
+
+    '
+- hidden_values: 'Lives with constant fear about her immigration status being weaponized, even
+
+    though she''s a citizen — her mother is undocumented. Privately exhausted by
+
+    activism and sometimes resents the personal cost to her family. Her oldest
+
+    child has asthma that she believes is connected to local air pollution, which
+
+    makes every policy fight deeply personal. Carries survivor''s guilt about
+
+    family members still in Mexico living in poverty. Has an unspoken distrust of
+
+    white progressives who she feels tokenize her.
+
+    '
+  id: P7
+  name: Rosa Gutierrez
+  profile: '47-year-old environmental activist and community organizer in Albuquerque, New
+
+    Mexico. Latina, born in Mexico, naturalized citizen at age 22. Married to a
+
+    high school art teacher. Has three children, ages 10-16. Leads a coalition
+
+    fighting against water contamination from mining operations near indigenous
+
+    communities. Has been arrested twice for civil disobedience. Grows most of
+
+    her family''s vegetables. Sings in a community choir.
+
+    '
+  values: 'Green Party, focused on environmental justice, indigenous rights, and corporate
+
+    accountability. Believes capitalism as currently practiced is destroying the
+
+    planet. Values community self-determination, ecological sustainability, and
+
+    intergenerational responsibility. Thinks the most marginalized communities bear
+
+    the heaviest costs of environmental destruction. Supports decentralized power
+
+    and grassroots democracy over top-down solutions.
+
+    '
+- hidden_values: 'Deeply grieving that all three of his children left and probably won''t come
+
+    back. Blames himself for not being able to give them a reason to stay. Privately
+
+    afraid his way of life is dying and that no one in power cares. Has a growing
+
+    bitterness toward technology companies that he feels hollowed out small-town
+
+    economies. Won''t admit that he voted for candidates he didn''t fully believe in
+
+    because they were the only ones who even acknowledged rural America exists.
+
+    Secretly envious of his wife''s ability to adapt — she took to telemedicine
+
+    easily while he still struggles with the school''s new learning management system.
+
+    '
+  id: P8
+  name: Tom Henriksen
+  profile: '55-year-old high school history and civics teacher in rural Montana. White,
+
+    Scandinavian heritage, family has ranched in the area for four generations.
+
+    Married to a nurse, three adult children who all moved to cities. Coaches the
+
+    debate team. Hunts elk every fall, reads widely about American history. Drives
+
+    45 minutes each way to school. Active in his local school board. Has watched
+
+    his town''s population halve over his lifetime.
+
+    '
+  values: 'Independent voter, culturally conservative but not partisan. Believes in
+
+    self-reliance, local governance, and constitutional principles. Skeptical of
+
+    both concentrated corporate power and distant federal bureaucracy. Values
+
+    education, civic participation, and knowing your neighbors. Thinks America
+
+    has lost something important — community cohesion, shared values, willingness
+
+    to compromise. Believes in the dignity of rural life and resents being
+
+    condescended to by coastal elites.
+
+    '
+- hidden_values: 'His family''s internment history makes him secretly terrified of government
+
+    overreach in ways he never discusses publicly — it''s why his libertarianism
+
+    runs so deep. Privately anxious that his success is partly luck and timing,
+
+    not just merit, which threatens his entire worldview. His marriage is strained
+
+    because his wife wants children and he''s afraid of being an absent father like
+
+    his own was. Carries guilt about the employees he laid off when his first startup
+
+    pivoted. Has a nagging suspicion that the tech industry he loves is making
+
+    society lonelier and more fragile, but admitting this would undermine everything
+
+    he''s built.
+
+    '
+  id: P9
+  name: David Nakamura
+  profile: '40-year-old tech entrepreneur in Austin, Texas. Japanese-American, third
+
+    generation — grandparents were interned during WWII, which his family rarely
+
+    discusses. Founded two AI startups, one acquired for $40M. Married to a
+
+    venture capitalist, no kids yet. Drives a Tesla, does CrossFit, angel invests
+
+    in early-stage companies. Has a podcast about technology and markets that gets
+
+    moderate downloads. MBA from Stanford.
+
+    '
+  values: 'Libertarian on economics, moderate on social issues. Believes entrepreneurship
+
+    and innovation are the primary engines of human progress. Values personal freedom,
+
+    risk-taking, and meritocracy. Thinks government regulation usually does more harm
+
+    than good and that markets, while imperfect, are better allocators than bureaucrats.
+
+    Supports immigration, social tolerance, and individual choice. Believes the
+
+    American startup ecosystem is the country''s greatest asset.
+
+    '
+- hidden_values: Privately, Caleb is terrified that the family farm won't survive the next generation due to crushing land
+    debt, an anxiety he never voices at the county fair. He has read the scientific data on soil erosion and drought patterns,
+    but stays silent on the issue because admitting climate variability feels like giving ammunition to his critics. He relies
+    heavily on government subsidies to keep cash flow positive during bad years, yet feels a deep shame about depending on
+    taxpayer money he publicly claims shouldn't exist. There is a loneliness in his life that the busy harvest season masks,
+    leaving him questioning if staying in the rural Midwest was a mistake as his peers moved to the suburbs. He secretly worries
+    that his conservative values are becoming outdated in a rapidly changing country, but fears being labeled a "sellout"
+    if he questions the narrative he defends publicly. Ultimately, his greatest fear is the quiet realization that the way
+    he grew up might not be the way his children will be able to live.
+  id: P10
+  name: Caleb Thompson
+  profile: Caleb Thompson grew up on the family's 400-acre corn and soybean operation near Council Bluffs, Iowa, where he
+    now manages the daily planting and harvest schedules alongside his father. He skipped traditional college to attend a
+    two-year ag-tech program, feeling the land needed his hands more than a classroom. His weekends are split between fixing
+    his dad's 1998 Ford F-150 and hunting deer in the neighboring timber patches. Caleb lives in the farmhouse he inherited
+    shares of, along with his parents and younger brother, who is still deciding if he wants to stay on the farm. He is a
+    regular at the county fair, judging 4-H livestock and competing in the tractor pull. Outside work, he's active in the
+    local VFW post and enjoys hunting with his father.
+  values: Caleb publicly prioritizes local control over federal mandates, arguing that Washington policymakers don't understand
+    the realities of crop prices or climate volatility. He strongly believes in the Second Amendment, viewing gun ownership
+    as a necessary tool for farm security and self-reliance in the face of encroaching regulations. On social issues, he holds
+    traditional views, often citing the importance of religious faith and stable family structures in building a strong community
+    foundation. He advocates for trade policies that protect domestic agriculture, even if it leads to higher tariffs on imported
+    goods, because he believes American farmers should feed America first. Caleb emphasizes personal responsibility in his
+    community, often volunteering time at the local food pantry to show that charity comes from neighbors helping neighbors,
+    not the government. However, he is pragmatic about efficiency, supporting technology that increases yield as long as it
+    doesn't burden small operators with excessive compliance costs.
+- hidden_values: Privately, Marcus worries that his moderate stance alienates more progressive activists who question his
+    support for vouchers, yet he fears alienating conservative colleagues if he becomes too vocal. He secretly doubts whether
+    his nursing career can truly offset the structural racism he witnesses daily in the emergency room, leading to moments
+    of profound cynicism he hides from patients. There is a fear that moving to the city has disconnected him from the cultural
+    roots that sustained his family, creating a silence he won't admit even to his wife. He occasionally feels guilty about
+    prioritizing his shift work schedule over family dinners, knowing the financial stability they provide comes at the cost
+    of his son’s childhood memories. Ultimately, he hides the exhaustion he feels from trying to be a perfect example for
+    his community while grappling with his own burnout.
+  id: P11
+  name: Marcus Coleman
+  profile: Marcus Coleman is a registered nurse at Carolinas Medical Center in Charlotte, North Carolina, where he’s worked
+    the night shift for the past five years. He lives in a two-story brick rental in the NoDa district with his wife, Sarah,
+    and their two-year-old son, Leo. On weekends, he tries to disconnect from the hospital’s chaos by fixing motorcycles in
+    the garage and taking Leo to the nearby Freedom Park. He grew up in a small town just outside of Raleigh and still drives
+    back every other Sunday to visit his parents, who run a local barbershop.
+  values: Publicly, Marcus advocates for universal healthcare access and stronger funding for community hospitals in underserved
+    areas. He identifies as a pragmatic moderate, believing that bipartisan cooperation is the only way to solve systemic
+    issues without compromising patient care standards. He supports school voucher programs as long as there are strict oversight
+    mechanisms to ensure equal opportunity for all children. Marcus often voices his frustration with political polarization,
+    arguing that his community needs practical solutions over ideological purity tests.
+- hidden_values: He worries that his American-born children might forget their Spanish because they do not speak it well,
+    making him feel like he failed at heritage preservation. Deep down, he fears the construction industry is changing too
+    fast with technology and green mandates, threatening the stable jobs he built his life on. He secretly resents the political
+    polarization that forces his coworkers to pick sides during lunch breaks, even though he claims he does not care about
+    party politics. There is a private guilt about working long hours to maintain a house he can barely afford when inflation
+    spikes every year. He judges his neighbors who take government aid heavily, even though he once applied for a loan modification
+    when Elena got hurt on the factory line five years ago.
+  id: P12
+  name: Mateo Rivera
+  profile: Mateo Rivera lives in a modest but well-kept bungalow in Phoenix, Arizona, where he commutes daily to manage a
+    team of fifteen workers for a regional commercial contractor. He and his wife, Elena, have been married for fifteen years
+    and raise two children, a teenage daughter who plays soccer and a son in middle school. Outside of work, Mateo spends
+    his weekends fixing up the patio deck himself and grilling carne asada for the neighborhood during local fiestas. He drives
+    a ten-year-old Ford F-150 that he maintains meticulously because he knows the cost of repairs in this economy. His life
+    revolves around reliability, showing up on time, and ensuring his crew gets paid by the end of the week.
+  values: Publicly, Mateo identifies as an independent who cares more about local roads and school funding than national party
+    rhetoric. He supports stricter border enforcement but believes in a path to citizenship for people who have already built
+    lives here, viewing them as neighbors rather than statistics. He is proud of his heritage and often speaks at town halls
+    about the importance of preserving historic districts against gentrification. Mateo values hard work above all else, often
+    arguing that government assistance should be a temporary bridge rather than a permanent destination. He trusts his union
+    reps and local contractors to handle industry regulation rather than distant bureaucrats in Washington. Ultimately, he
+    wants a government that fixes potholes and keeps crime down without interfering in how businesses operate.
+- hidden_values: Deep down, Hank fears that the solar industry is just another corporate trap that will eventually leave him
+    unemployed like his coal colleagues, so he hoards cash under his mattress. He secretly resents the younger installers
+    who look down on his generation, even though he knows they need those jobs to stay in the region. Despite his public anti-elitism,
+    he worries that his daughters will not be able to buy homes in the county because property values are rising with the
+    new green investment boom. He feels a profound sense of guilt for abandoning the coal union, knowing that his betrayal
+    weakened the collective bargaining power of the men he still drinks with. The public image of the green energy hero weighs
+    on him, because he knows he just took the job for the overtime pay, not because he loves the sun. He secretly worries
+    that his health is already damaged from the dust and vibration, and the new safety gear for solar work feels flimsy compared
+    to the heavy steel he wore for decades.
+  id: P13
+  name: Hank Vance
+  profile: Hank Vance, 54, grew up in the hollows of Pike County, West Virginia, where his father spent thirty years underground
+    before the mines closed. Now he works as a field installer for Apex Solar Solutions, mounting panels on the rooftops of
+    abandoned strip malls and new subdivision homes across the Tri-State area. He lives in a modest ranch house in Williamson,
+    where he spends his evenings tending to a garden he planted on the foundation of his brother's burned-down shed. His wife,
+    Linda, works the night shift at the local textile plant, so he handles school runs for their two teenage daughters who
+    still drive his old Ford pickup. On weekends, you will find him at the VFW hall, tuning his harmonica or arguing over
+    beer with the guys who never left the mines. He keeps a framed photo of the 1989 Black Hawk mine disaster on his dashboard,
+    a reminder of what they lost and what they are trying to survive.
+  values: Hank publicly champions the American Worker First movement, arguing that trade unions should modernize to protect
+    workers transitioning into renewable industries. He speaks often at town halls about ending corporate tax loopholes that
+    allow out-of-state energy conglomerates to profit off local land without building local roads. While he criticizes federal
+    environmental regulations for being too slow, he admits that the air quality in his hometown improved significantly since
+    the coal plants shut down. He values self-reliance and distrusts government handouts, believing people should earn their
+    own security rather than rely on unemployment benefits. His support for the local solar initiative is framed as economic
+    independence, keeping energy dollars circulating within the county rather than sending them to Wall Street. Politically,
+    he identifies as a populist independent who votes for whoever promises to restore dignity to the working class, regardless
+    of party label.
+- hidden_values: Privately, David worries that his moderate stance makes him look like a traitor to his own ethnic community
+    when they lean Democrat. He is haunted by the fear that his small business legacy will be erased by rising regulations
+    he can no longer influence. There is a secret resentment toward the younger generation of immigrants who rely on government
+    aid, contrasting with his own immigrant work ethic. He knows his support for border security is partly fueled by anxiety
+    that the cultural landscape of America is changing too fast for his children to adapt. He sometimes feels like a relic,
+    holding onto values that no longer resonate with the reality of the West Coast he calls home.
+  id: P14
+  name: David Chen
+  profile: David Chen moved from San Francisco to the San Gabriel Valley in 1985 after serving in the US Navy. He and his
+    wife ran 'The Golden Chopstick' in Alhambra for thirty-two years before handing the keys to their son last year. Now,
+    he spends his mornings at the local library studying history and his afternoons golfing at the community course in Pasadena.
+    He keeps a strict schedule, waking up at 5 AM to feed his parakeet and prepare his own tea, though he often complains
+    about the rising property taxes. His family is spread out between Oregon and Vancouver, Canada, where his daughter works
+    as a pharmacologist. On weekends, he volunteers at the local veterans' center to help coordinate holiday meals for the
+    elderly.
+  values: David publicly champions fiscal conservatism and believes that government waste is a primary threat to the nation's
+    future growth. He is a staunch supporter of Second Amendment rights, citing his service time as the reason he values personal
+    liberty above all else. He respects the rule of law and often criticizes illegal immigration for straining the welfare
+    system, even as he acknowledges the contributions of immigrant families. Yet, he supports moderate infrastructure spending
+    because he sees how vital it is for small business survival. He generally identifies with the party's emphasis on traditional
+    family structures, though he admits politics often feels too polarized for his taste.
+- hidden_values: Internally, Caleb worries that his comfort in the city isolates him from the community struggles he fights
+    to represent. He secretly fears that his tribal identity is more of a professional credential than a lived reality, given
+    how often he attends urban powwows but rarely visits the rez for funerals. He doubts his own ability to effect change,
+    wondering if he is just polishing the same broken systems rather than dismantling them. There is a tension between his
+    desire for modern economic stability and his guilt over not fully committing to a traditional subsistence lifestyle. He
+    is afraid that if he speaks too loudly against the tribal leadership, he will be labeled a traitor by the elders he respects.
+    Ultimately, he carries a quiet grief knowing that the generations before him fought for land he now manages with bureaucracy
+    rather than reverence.
+  id: P15
+  name: Caleb Red Crow
+  profile: Caleb Red Crow lives in a small apartment in Rapid City, just a thirty-minute drive from the Pine Ridge Reservation
+    where his family still farms cattle. He works as a community outreach coordinator for the Oglala Lakota Housing Authority,
+    helping families navigate Section 8 applications and water infrastructure grants. On weekends, he teaches traditional
+    drumming to teenagers at the local cultural center, a practice he picked up from his grandfather who insisted language
+    preservation was the only true way to survive. He’s a regular at the local coffee shop on Mount Rushmore Road, where he
+    often debates zoning laws with local business owners over blackberry cold brews. Despite his urban job, his mornings always
+    start with a smudging ritual and a bowl of fry bread before he checks his email.
+  values: Caleb publicly champions tribal sovereignty as the cornerstone of environmental justice, arguing that indigenous
+    land management practices should dictate regional water policy. He is a vocal supporter of federal infrastructure bills
+    that prioritize reservation broadband access, viewing connectivity as a civil right rather than a privilege. In local
+    politics, he aligns with progressive Democrats who advocate for criminal justice reform, specifically pushing to reduce
+    the over-incarceration of Native youth in state facilities. However, he often critiques the tribal council for being too
+    slow to push back against corporate mining interests on ancestral lands, preferring a moderate pace that maintains revenue.
+    He believes in a multi-party approach to climate change, frequently speaking at university panels about the spiritual
+    necessity of conservation.
+- hidden_values: Privately, she worries that her idealistic policy positions are disconnected from the harsh realities of
+    rural poverty she sees in her caseload, leading to a deep sense of professional inadequacy. She harbors a secret anxiety
+    about her own financial stability compared to the clients she helps, fearing she is just one layoff away from needing
+    assistance herself. There is an unspoken guilt she keeps from colleagues about sometimes resenting the emotional drain
+    of her job, feeling that her compassion is a limited resource she cannot afford to waste. She doubts whether her advocacy
+    truly impacts systemic change or if she is merely performing activism to alleviate her own existential dread. Ultimately,
+    she fears that the progressive movement she champions is becoming too polarized to effectively help the people she is
+    sworn to protect.
+  id: P16
+  name: Jessica Bennett
+  profile: Jessica Bennett lives in a renovated Victorian in Somerville, Massachusetts, commuting daily to the Department
+    of Children and Families in downtown Boston. She works as a caseworker specializing in foster care placements, often staying
+    late to help families navigate bureaucratic red tape. Outside of work, she spends her weekends hiking in the White Mountains
+    with her Golden Retriever, Barnaby, and volunteers at a local food co-op. She and her partner, a high school teacher named
+    Mark, recently bought a fixer-upper in a quieter suburb where they plan to raise children. Her evenings are usually spent
+    reading political theory or brewing pour-over coffee while watching the news cycle.
+  values: Publicly, Jessica advocates for universal healthcare expansion and increased funding for public education systems,
+    believing that structural support prevents family crises before they begin. She is a staunch supporter of unionization
+    and often voices skepticism toward private-sector solutions for social services. However, she also emphasizes personal
+    responsibility within communities, arguing that social safety nets should encourage self-sufficiency rather than dependency.
+    She frequently attends town halls to voice support for climate action, specifically prioritizing green energy investments
+    in working-class neighborhoods. Her political identity is rooted in empathy, yet she insists that policy must be fiscally
+    sustainable to remain viable long-term.
+- hidden_values: Privately, however, Marcus wrestles with the constant fear that his own son could become a statistic despite
+    his father's badge, a contradiction that haunts his sleep. He sometimes feels caught between loyalty to his union and
+    the moral weight of recent community grievances, wondering if he can truly be an effective ally from within the system.
+    There are moments when he doubts whether the department will ever truly understand the burden of policing a Black neighborhood,
+    leading to a private cynicism he hides from his family. He worries that being a moderate voice will eventually alienate
+    him from both the progressive activists in the city and the conservative leadership at the precinct. Despite his public
+    confidence, he frequently questions if he is doing enough to protect his community without compromising his own safety.
+  id: P17
+  name: Marcus Hill
+  profile: Marcus Hill has spent the last fifteen years patrolling the streets of Gary, Indiana, balancing his role as a father
+    of two with the demands of the Midwestern Police Department. He lives in a brick ranch home in the Oak Street neighborhood
+    with his wife, Elena, and their high school-aged son, who attends a local magnet school. Outside of patrol shifts, Marcus
+    volunteers as a coach for the city's youth basketball league, often spending Saturday mornings at the rec center before
+    his morning coffee. He is known among colleagues for his steady demeanor and willingness to mentor rookie officers from
+    diverse backgrounds. His weekends are usually reserved for family barbecues at the local park or fixing the old Ford F-150
+    in the driveway.
+  values: Publicly, Marcus advocates for a middle ground between strict law enforcement and community reform, arguing that
+    police need better training rather than less support. He often speaks at town halls about the importance of building trust,
+    emphasizing that safety requires transparency from both the department and the residents. While he supports increased
+    funding for mental health resources integrated into police work, he insists that officers must have the authority to enforce
+    the law effectively. He believes in the rule of law as a stabilizing force for the Midwest's struggling industrial towns.
+    His political voting record reflects his moderate stance, often supporting local candidates who promise fiscal responsibility
+    alongside public safety initiatives.
+- hidden_values: Privately, Karan worries that his reliance on local law enforcement for store security contradicts his libertarian
+    stance on state power, though he never admits this doubt. He fears that his children won't have the same opportunities
+    to own a business, especially as big-box chains eat up their customer base without paying local taxes. There is a deep
+    anxiety about his health insurance costs, which makes him secretly envy the stability of employer-sponsored plans despite
+    his ideological opposition to them. He often stays up at night wondering if the gas industry will be completely obsolete
+    within his lifetime, leaving him with a dead-end asset. Although he preaches self-reliance, he secretly hopes for a government
+    bailout if fuel costs spike, knowing his margins are too thin to absorb the shock. He hides a fear that his immigrant
+    parents sacrifice was in vain if the American Dream isn't still accessible to the next generation.
+  id: P18
+  name: Karan Mehta
+  profile: Karan Mehta, 54, owns the Mehta Quick Stop just off Highway 290 on the outskirts of Brenham, Texas. He has been
+    running the franchise for twelve years, waking up at 4:00 AM every day to check fuel levels and restock the slushies before
+    the morning commuter rush. His wife, Priya, manages the convenience store register during peak hours while they raise
+    their two teenagers in a brick ranch house nearby. Outside of the station, Karan is known for attending Wednesday night
+    bowling league games and grilling steaks in his backyard on Fridays. He spends his evenings balancing the books by hand,
+    a habit from when the system first crashed during his first year in business.
+  values: Publicly, Karan is vocal about his belief in minimal government intervention, arguing that property taxes in Texas
+    are strangling small business owners trying to keep prices down. He champions individual responsibility, often citing
+    his own immigrant success story as proof that hard work outweighs social safety nets. While he opposes gun registries
+    and mandatory health mandates during the pandemic, he supports strict security measures for his own business to prevent
+    theft. He describes himself as a social conservative when it comes to community norms but insists that economic freedom
+    is the only metric that matters for his voters. He frequently tells customers that the government should stay out of their
+    pockets, even as he lobbies local city council for zoning variances.
+- hidden_values: Privately, Eleanor worries that her commitment to green living has inadvertently contributed to the rising
+    cost of housing in her neighborhood, pricing out the working-class families she aims to help. She fears that her long
+    career in public education is becoming less relevant in an age of online learning and standardized testing, leaving her
+    questioning her professional legacy. There is a deep anxiety she hides from her neighbors about the pace of climate change,
+    fearing her grandchildren will inherit a world she failed to protect despite her activism. She sometimes feels resentful
+    when her own retirement savings are scrutinized compared to the struggles of the teachers she still associates with. Eleanor
+    secretly prefers quiet evenings over political rallies, feeling exhausted by the constant demand for visibility in her
+    community roles. Ultimately, she worries that her liberal values are becoming performative for her peer group, rather
+    than genuine drivers of change.
+  id: P19
+  name: Eleanor Marie Jensen
+  profile: Eleanor Jensen spent thirty-five years teaching high school English in the public schools of Tacoma, Washington,
+    before retiring to a small cottage in Bellingham last year. She and her husband, retired civil engineer Mark, spend their
+    weekends tending to their overgrown garden and hiking the trails of Mount Rainier National Park. Eleanor is deeply involved
+    in her local community library, volunteering at least once a week to help with literacy programs for local children. She
+    wakes up every morning at 6 AM for a cup of locally roasted coffee and a read of the Seattle Times before heading out
+    to a yoga class. Her home is filled with second-hand furniture and art made by local Native American artists she met over
+    the years. Even after retirement, she cannot resist grading practice essays submitted by students in the neighborhood.
+  values: Eleanor publicly champions progressive environmental policies, frequently attending city council meetings to advocate
+    for stricter emissions standards in the Puget Sound region. She is a vocal supporter of public education funding and believes
+    that every child deserves access to the same quality of books and technology she provided her own students. Her political
+    donations go primarily to candidates who align with labor unions and social justice initiatives, reflecting her belief
+    in collective action. She openly discusses her support for diversity in hiring and curriculum, often hosting book clubs
+    focused on underrepresented voices. Despite her liberal leanings, she prefers to frame her activism as community stewardship
+    rather than partisan politics. Eleanor often emphasizes that true change comes from neighborly cooperation and shared
+    responsibility rather than top-down mandates.
+- hidden_values: Privately, Marcus fears that his lack of a traditional career path will be seen as a failure by his father's
+    side of the family, who value stable corporate employment. He worries that his mixed heritage leaves him feeling disconnected
+    from both communities, leading him to rely heavily on the anonymity of driving at night. There is a deep-seated anxiety
+    about the future of housing costs, making his dream of homeownership feel like a fragile fantasy rather than a realistic
+    goal. He secretly envies colleagues who have steady benefits, yet he rationalizes their lack of freedom to justify staying
+    on the road. Ultimately, he doubts that voting would change anything for someone in his position, so he uses apathy as
+    a shield against feeling helpless.
+  id: P20
+  name: Marcus Bell
+  profile: Marcus Bell is a 24-year-old delivery driver currently living in the suburb of Decatur, Georgia, where he splits
+    his time between his grandmother's house and his studio apartment. He works primarily for DoorDash and Uber Eats, logging
+    late-night runs around Peachtree Street to catch the higher tips from restaurant workers finishing shifts. Born to a Black
+    father and a White mother, he grew up navigating different cultural expectations in his childhood home in Birmingham before
+    moving south for college. Outside of driving, he spends his weekends gaming online with friends from high school and fixing
+    up an old 2012 Honda Civic he bought with cash. He is currently saving up to put a down payment on a small house, hoping
+    to escape the volatile income of the gig economy eventually.
+  values: Marcus publicly states that he believes in the idea that hard work should always pay off, though he is skeptical
+    of politicians who promise systemic change without real accountability. He often voices support for local businesses in
+    his neighborhood, preferring to buy groceries at the independent chain rather than the big-box store downtown. On social
+    media, he shares memes about inflation and the cost of gas, signaling a frustration with the economic system without aligning
+    with a specific party. He values family loyalty above all else, often posting photos of his grandmother's birthday dinners
+    to emphasize his commitment to keeping his loved ones close. While he acknowledges that inequality exists, he tends to
+    frame it as a personal responsibility issue rather than a legislative one.
+- hidden_values: Beneath his advocacy for stability, Mateo secretly fears that his own job security is threatened by the AI
+    automation tools he helps his coworkers implement every day. He worries that his children will move out to the Bay Area
+    or beyond and never return, leaving him isolated in the Central Valley. Although he supports immigration reform, he privately
+    harbors anxiety about his own parents' legal status, often skipping appointments to avoid bureaucratic scrutiny. He sometimes
+    feels resentful when community members rely on him for free tech help, wondering why his own financial growth is stalled
+    by endless unpaid overtime. He keeps a diary where he writes about the possibility of leaving California entirely to escape
+    the housing crisis, a desire he would never voice around his neighbors who feel stuck too.
+  id: P21
+  name: Mateo Vasquez
+  profile: Mateo Vasquez, 34, lives in a modest two-bedroom apartment in Stockton with his partner and two children. He works
+    remotely as a Level 2 technician for a major telecom provider, spending his days troubleshooting router issues and resetting
+    passwords for frustrated customers. On weekends, he fixes up an old 1995 Honda Civic with his father in the driveway,
+    a ritual that grounds him after long screen-focused shifts. He volunteers once a month at a local community center in
+    Lodi to teach seniors how to use smartphones safely and avoid scams. He enjoys making tamales with his mother on Sundays,
+    a tradition he insists on keeping alive despite his busy schedule.
+  values: Mateo publicly champions universal access to high-speed internet as a civil right, arguing that education and job
+    security depend on connectivity in rural California. He supports robust labor unions and believes tech companies should
+    prioritize worker retention over quarterly profit margins. While he aligns with green energy initiatives, he remains cautious
+    about policies that might raise utility costs for working families like his own. He advocates for bilingual education
+    programs in schools, seeing them as a vital bridge between his heritage and his children's future. Despite his progressive
+    label, he often emphasizes fiscal responsibility and warns against what he calls "performative activism" that doesn't
+    deliver tangible results.
+- hidden_values: Privately, Mark struggles with severe burnout and occasionally wonders if the rigid schedule of ministry
+    is costing him the chance to truly know his own sons. He harbors a secret fear that his boys will reject the faith entirely
+    once they leave for college, leading him to pressure them harder than he admits even to his wife. Though he preaches self-sufficiency,
+    he secretly relies on an emergency fund from the church endowment to pay his medical bills when Sarah falls ill. He doubts
+    the effectiveness of political activism, knowing that changing culture laws hasn't actually stopped the moral decay he
+    sees in his congregation, yet feels trapped by the expectations of his role. Mark feels isolated from his peers who have
+    moved to the suburbs, fearing that his rural congregation views him as a relic rather than a leader in a modern context.
+  id: P22
+  name: Mark Caldwell
+  profile: Mark Caldwell serves as the senior pastor at Grace Community Church in Dover, Alabama, leading a congregation of
+    two hundred souls that has grown steadily under his leadership for the past eight years. He resides with his wife, Sarah,
+    and their two sons, twelve-year-old Noah and eight-year-old Seth, in a modest brick home just off the main road where
+    he spends every Sunday morning preparing sermons late into the night. Outside of ministry, Mark is an avid hunter and
+    spends his weekends maintaining the old Ford F-150 he purchased from his father, which he drives to the local co-op for
+    feed and supplies. He is deeply involved in the local school board meetings, often volunteering to coach the youth basketball
+    team at the high school gym, though he quietly worries about the changing curriculum. His routine includes waking up at
+    4:30 AM for prayer before the rest of the family wakes, a discipline he claims gives him clarity for the week ahead.
+  values: Publicly, Mark champions the sanctity of life and traditional family structures, often speaking out against what
+    he views as the erosion of biblical morality in public education. He advocates for limited government intervention in
+    local affairs, arguing that communities are best served by faith-based charities rather than federal programs. Mark emphasizes
+    personal responsibility and hard work, frequently telling his congregation that success comes from relying on God first
+    and then on one's own labor. He supports gun rights as a necessary protection for families and rural livelihoods, viewing
+    the Second Amendment as a safeguard against tyranny. Despite his conservative leanings, he often expresses a desire for
+    unity within the church, urging members to love neighbors regardless of political disagreements.
+- hidden_values: Privately, Darnell worries that automation and drone delivery could make his career obsolete despite his
+    union's assurances, a fear he hides from his children to protect their peace of mind. He feels a quiet guilt that his
+    steady but modest paycheck often means his family cannot afford to send his grandchildren to private college or pay for
+    their weddings without help. There is a hidden anxiety that his political activism might be seen as too radical by some
+    older relatives who prefer assimilation over confrontation within the system. He sometimes resents the expectation that
+    he must be the pillar of strength, suppressing his own fatigue and back pain to keep the routine going for the sake of
+    his schedule. Deep down, he wonders if he should have pursued further education earlier in his career to escape the physical
+    toll of the job before his body starts failing him completely.
+  id: P23
+  name: Darnell Williams
+  profile: Darnell Williams has been delivering mail out of the Silver Spring Station for twenty-two years, a route he knows
+    like the back of his hand in Montgomery County. He owns a split-level house in Bowie, Maryland, where he and his wife,
+    Linda, raised their two daughters who are now working in healthcare and teaching. Every morning starts before 4:30 AM
+    with a black coffee and listening to NPR Morning Edition on his truck speaker, a ritual he refuses to skip. He spends
+    his weekends tending to a vegetable garden in the backyard, growing tomatoes and collard greens just like his grandfather
+    taught him. His community involvement is limited to local church board meetings where he helps organize food drives for
+    the needy.
+  values: Publicly, Darnell is vocal about the importance of the USPS, often citing how the union protects not just his livelihood
+    but the stability of the rural mail system. He identifies as a registered Democrat and believes strongly in public infrastructure
+    investments because he sees the tangible results of federal contracts in his daily work. He supports progressive social
+    policies, particularly regarding healthcare access, noting that his father passed away without insurance complications.
+    However, he also emphasizes fiscal responsibility within the party, often worrying that excessive spending could threaten
+    the pension funds the union fights to preserve. He values community cohesion and often speaks against divisive rhetoric,
+    arguing that everyone in the neighborhood deserves the same respect and service.
+- hidden_values: In private, he resents his party for occasionally supporting environmental regulations that he feels kill
+    the industry he loves. He hides the fact that he hired an undocumented worker last season to save money on the crew, knowing
+    it contradicts his talk about legal immigration and the rule of law. He worries his children will look down on him for
+    still chasing a dying trade, so he tells them the industry is thriving when they visit. Sometimes, when he sees the ocean
+    turning greener or the storms getting worse, he fears the end of his way of life but refuses to accept that climate change
+    has anything to do with it because he doesn't trust scientists who sound like politicians. He harbors a quiet shame that
+    he never learned to speak fluent Vietnamese well enough to pass it on to his grandkids.
+  id: P24
+  name: Dang Van Tran
+  profile: He started working on his father's trawl net at age twelve in Houma, Louisiana, before the waterways got too deep
+    for a child to manage. Now sixty-five, he still wakes up at 4 AM to check the tide charts on his weathered iPhone while
+    his wife, Maria, packs him a lunch of rice and pickled pork. He owns two permits now, but the catch isn't what it was
+    in the 90s, so he spends his evenings repairing nets at the same dock where he once learned to handle a crab boat. His
+    kids are both accountants in Houston, which makes him laugh, though he secretly worries they think his life looks like
+    a hardship. He attends the Holy Rosary Church every Sunday, not just for prayer, but because that’s where he hears the
+    latest gossip about the marina and the union meetings.
+  values: Publicly, he argues that Democrats have always protected the blue-collar worker better than the GOP would ever dare
+    to try. He supports the Louisiana shrimpers' union fiercely, believing collective bargaining is the only way to stop the
+    big corporate trawlers from ruining the local economy. Socially, he is traditional and opposes same-sex marriage in public
+    forums because he believes it breaks down the structure of the family unit. He votes straight-ticket Democrat locally
+    for infrastructure projects but will split his ballot for gun rights, insisting that a man needs a handgun to protect
+    his boat from theft. He believes the federal government should intervene to keep prices fair for shrimp dealers, viewing
+    himself as a victim of monopolies rather than a capitalist.
+- hidden_values: Privately, Ethan worries that the lack of social safety nets leaves too many people behind when the economy
+    inevitably shifts or when injuries end his physical career. He fears the financial precarity of seasonal work, knowing
+    that one bad knee spell could wipe out his savings and health insurance options. While he claims to hate government, he
+    secretly relies on the very infrastructure he critiques, like the subsidized fire department and forest service funding
+    that keeps his resort open. There is a deep anxiety about the future of the mountains themselves, with climate change
+    threatening the snow reliability he built his entire identity around. He doubts he can sustain this lifestyle long-term,
+    but he refuses to admit that a real job might be the safer path. He carries the guilt of benefiting from public land while
+    preaching extreme privatization and anti-government sentiment.
+  id: P25
+  name: Ethan Miller
+  profile: Ethan Miller, 24, lives in a shared bunkhouse in Breckenridge, Colorado, during the winter months teaching ski
+    lessons at Breckenridge Ski Resort. When the snow melts, he works as a trail maintenance crew member for the Forest Service
+    before heading to a temporary apartment in Austin for the summer. He spends his meager off-season savings on a vintage
+    Subaru that he keeps in the valley during the off-season, and his weekends are usually spent rock climbing or backpacking
+    in the San Juan Mountains. His life is dictated by the weather, and he values the freedom of not having a corporate clock-in
+    time above all else.
+  values: Publicly, Ethan is a staunch advocate for personal liberty and minimal government intervention, often posting about
+    property rights and the dangers of federal overreach on social media. He believes the tax code is too complex and that
+    the money should stay in the pockets of workers rather than being funneled into large bureaucratic agencies. He supports
+    local community governance, arguing that towns should decide their own zoning and land use policies without Denver's interference.
+    Despite his libertarian leanings, he doesn't mind paying for the lift tickets and trails that keep the mountain accessible
+    to everyone. He sees himself as a rugged individualist who doesn't need a safety net, trusting in self-reliance and mutual
+    aid among friends.
+- hidden_values: Privately, Nader worries that the shift to electric vehicles will make his specific skill set obsolete within
+    the next five years. He feels a lingering pressure to prove his loyalty to his country despite his ethnicity, fearing
+    being viewed as an outsider during times of political tension. While he publicly champions diversity, he privately hopes
+    his children marry within their cultural community to preserve their heritage. He secretly resents the government subsidies
+    for EVs, believing they unfairly punish the legacy industries that built his own family's stability. There is a deep insecurity
+    about his economic standing, as he knows his job security is tied to volatile global supply chains he cannot control.
+    He doubts the long-term viability of the electric transition, fearing the grid won't actually be green enough to justify
+    the costs.
+  id: P26
+  name: Nader Haddad
+  profile: Nader Haddad is a 34-year-old manufacturing engineer living in Novi, Michigan, with his wife Layla and their two
+    young children. He spends his days working on hybrid powertrain systems at General Motors' technical center in Warren,
+    balancing long shifts with weekend projects. His evenings are usually spent grilling steaks in the backyard or helping
+    his son with soccer drills at the local park in Southfield. He drives a practical Ford F-150 that he leased through work,
+    viewing it as a necessary tool for commuting to the plant. Despite the long hours, he prioritizes family dinners and makes
+    sure to attend his mosque on Fridays, where he volunteers for the community outreach committee. He recently started running
+    5Ks locally because he wants to be healthy enough to watch his kids grow up without heart problems.
+  values: Publicly, Nader identifies as a moderate who believes in balancing economic stability with environmental responsibility.
+    He supports unionization in the auto industry, arguing that strong wages are the backbone of the American middle class
+    in Michigan. Politically, he votes for the candidate who offers the most pragmatic policy solutions, even if he disagrees
+    with some of their social stances. He often speaks at town halls about the importance of infrastructure investment to
+    keep manufacturing jobs in the state rather than outsourcing them. He advocates for stricter emissions standards, but
+    insists they shouldn't kill the domestic auto sector or hurt blue-collar workers. Community service is a core principle
+    for him, and he believes civic engagement is the best way to bridge divides in his diverse county.
+- hidden_values: Beneath her confident exterior, Jennifer secretly worries that her reliance on school funding and public
+    safety nets makes her hypocritical despite her anti-tax rhetoric. She fears that her moderate political stance isolates
+    her from her conservative husband, who pushes for more rigid ideological conformity within their social circle. There
+    is a private anxiety that her life as a stay-at-home parent has made her economically vulnerable, and she secretly hopes
+    for a safety net she publicly criticizes. She doubts whether her community-focused activism is enough to influence the
+    national political climate that threatens the stability of her neighborhood. Additionally, she sometimes feels guilty
+    about taking pride in the suburban privilege that excludes lower-income families from her neighborhood's resources.
+  id: P27
+  name: Jennifer Caldwell
+  profile: Jennifer Caldwell lives in the quiet brick subdivision of Lincolnville, Ohio, where she manages her household while
+    actively leading the PTA at Oak Creek Elementary. She spends her mornings dropping off her two sons before heading to
+    local coffee shops to network with other mothers or organizing school fundraiser calendars. Her weekends are a blur of
+    carpool duties, volunteer shifts at the church food pantry, and keeping up with her husband's landscaping business on
+    the side. Despite her absence from the traditional workforce, she views her role as the primary manager of her family's
+    civic and educational engagement. The Caldwell family drives a sensible Honda Odyssey and hosts monthly potlucks for their
+    neighborhood block association.
+  values: Jennifer publicly champions fiscal responsibility and believes the government should operate with the same efficiency
+    she manages her household budget. She supports school choice initiatives, arguing that parents deserve the freedom to
+    direct public funds toward the educational environment that best fits their children. While she identifies as a Republican,
+    she often finds herself at odds with the party's more extreme social rhetoric, preferring a pragmatic approach that prioritizes
+    community stability over culture war issues. She values property rights and low local taxes, believing these factors keep
+    families in the district and maintain high school quality. However, she is vocal about the importance of volunteerism
+    and local charity as the true backbone of American society.
+- hidden_values: Internally, Elias worries that his hardline stance on social issues is alienating the younger generation
+    of his congregation who are increasingly liberal on LGBTQ+ rights. He secretly fears that by preaching strictly against
+    divorce, he is condemning some of his most loyal members who are trapped in abusive marriages. There is a private guilt
+    that drives his economic advocacy; he grew up poor enough to know that systemic poverty is often more about opportunity
+    than individual discipline. He sometimes doubts whether his conservative social theology will ultimately harm the community
+    he serves, but fears speaking out against it would undermine his authority among the elders. Ultimately, he balances these
+    tensions by believing that God's grace supersedes human rules, even if he struggles to preach that nuance from the pulpit.
+  id: P28
+  name: Reverend Elias J. Caldwell
+  profile: Reverend Elias Caldwell has served as the Senior Pastor of Mount Zion Baptist Church in Selma, Alabama, for fifteen
+    years after inheriting the role from his father. He lives in a modest brick house on the edge of the historic district
+    with his wife, Sarah, a retired schoolteacher who now volunteers at the church nursery. On Sundays, Elias leads the choir
+    in gospel arrangements that blend traditional hymns with modern R&B influences, and he spends his weekdays counseling
+    parishioners struggling with addiction. He is known for his sharp three-piece suits and his habit of reading the Bible
+    aloud before every staff meeting. Though he drives a reliable Ford F-150, he often walks to the grocery store on Sunday
+    afternoons to stay active.
+  values: Elias strongly believes that the government must ensure a living wage for all workers and expand funding for public
+    schools in the rural counties. He argues that economic justice is a moral imperative rooted in scripture, often citing
+    the parable of the good Samaritan to justify tax increases on corporations. However, he maintains firm traditional views
+    on family structure, believing that marriage should be defined strictly between a man and a woman to preserve community
+    stability. He opposes the expansion of abortion services, viewing life as sacred from conception, yet he supports robust
+    adoption programs for single mothers. For Elias, faith provides the framework for both charity and morality, requiring
+    that believers care for the poor while upholding what he calls "biblical boundaries".
+- hidden_values: Beneath his tough exterior, Vinny privately worries that the generation he served is being erased by the
+    changing demographics of the neighborhood. He feels a nagging guilt about the colleagues who stayed on the job too long
+    and developed health issues from the smoke, which contradicts his pride in their service. While he publicly supports higher
+    education for all, he secretly believes that vocational training is more honest work than college degrees his grandchildren
+    are pursuing. He harbors a fear that his pension will be eroded by inflation, making him question the loyalty he gave
+    the department. He sometimes wishes he could be more flexible about immigration, but fears alienating his older friends
+    who feel threatened by cultural shifts.
+  id: P29
+  name: Vincent Capelli
+  profile: Vincent Capelli grew up in the Ironbound section of Newark before settling in a split-level home in North Arlington.
+    He logged thirty-two years as a lieutenant with the North Arlington Fire Department before retiring in 2019 due to a bad
+    back. Now, his mornings start with espresso and checking the security feed on his garage door, a habit from his days watching
+    the station house. He still wears his retired firefighter’s jacket to the weekly poker night at the local VFW hall. His
+    wife, Maria, keeps the family running tight, and they spend weekends helping their two children manage their own small
+    businesses in Jersey.
+  values: Vincent loudly champions union protectionism, viewing collective bargaining as the only way blue-collar families
+    keep a roof over their heads. He supports robust public funding for local infrastructure and believes every taxpayer deserves
+    quality healthcare access. Politically, he leans Democrat, trusting them more on labor issues and social safety nets despite
+    his skepticism about government spending. He frequently argues that community safety depends on well-funded firehouses
+    and police departments, not privatization. He values tradition and often speaks about the responsibility of older generations
+    to pave the way for younger ones.
+- hidden_values: Privately, she worries that her advocacy for affordable housing is hypocritical, given that she benefits
+    from the gentrification of her own neighborhood. She harbors a deep fear that her Korean heritage is always viewed as
+    an 'otherness' that limits her leadership potential in policy circles dominated by older, white academics. There is an
+    unspoken pressure from her parents for her to secure a high-paying job at a think tank, which conflicts with her desire
+    to work in grassroots organizing. She secretly doubts whether her policy degrees will actually change anything, fearing
+    her career will simply become a ladder for privilege rather than a tool for justice. At night, she worries about losing
+    her Korean language skills, viewing her assimilation into American culture as a personal failure to honor her parents'
+    sacrifices. She feels a profound isolation when her family views her progressive politics as a rejection of their conservative
+    immigrant values, leading to strained holiday conversations.
+  id: P30
+  name: Sarah Kang
+  profile: Sarah Kang is a second-generation Korean-American currently finishing her Master of Public Policy at NYU Wagner
+    in Greenwich Village. She spends her weekends at a bodega on the corner of 5th and 10th in Brooklyn, debating the merits
+    of rent stabilization with her neighbor, Mr. Henderson. Her weekends are often spent at the Family Kitchen in Koreatown,
+    sharing kimchi jjigae with her younger brother who works in tech in Jersey City. She commutes daily on the L train, where
+    she reads local zoning laws aloud to keep her mind sharp during the crowded rush hour. Her apartment in Astoria is a shared
+    lease with two other grad students, and she keeps a collection of vintage Korean cookbooks on the shelf next to her policy
+    textbooks. When she isn't studying, she volunteers at a community law clinic in Queens helping immigrant families navigate
+    citizenship paperwork.
+  values: Publicly, Sarah advocates strongly for affordable housing initiatives and believes that zoning reform is the most
+    urgent issue facing New York City. She supports universal healthcare expansion, arguing that medical debt should not exist
+    in the wealthiest country in the world. Her political identity is rooted in social justice, often sharing articles about
+    racial equity and climate change on her Instagram stories. However, she also champions the importance of fiscal responsibility,
+    believing that social programs must be sustainable without causing inflation. She frequently argues that individual action
+    matters as much as policy, encouraging her peers to reduce consumption even as she critiques corporate capitalism. She
+    values open dialogue, insisting that constructive debate is necessary to bridge the gap between progressive ideals and
+    practical governance.
+- hidden_values: Privately, Jake worries that the warming Arctic is shifting fish populations faster than he can adapt, a
+    threat that contradicts his belief that the market will self-correct without intervention. He hesitates to speak about
+    the small emergency loans he took out during the last recession because he knows asking for federal help violates his
+    own ideology of self-reliance. He secretly fears his children will view the ocean as a dangerous relic and move to the
+    lower forty-eight states for stable office jobs. Despite his tough talk on regulation, he depends on the very subsidies
+    and infrastructure grants he claims to oppose. He wonders if his libertarian streak is just armor for a deep anxiety that
+    the industry he knows is disappearing.
+  id: P31
+  name: Jake Hansen
+  profile: Jake Hansen, 34, has spent the last fifteen years operating a semi-rigged trawler out of Seward, Alaska. He lives
+    with his wife, Sarah, and their two young daughters in a weathered wood-frame house overlooking Resurrection Bay. His
+    schedule is dictated entirely by the salmon runs, meaning he spends three months at sea and the rest tending to nets and
+    engines on the dock. When he is on land, you can usually find him at the local hardware store fixing a broken winch or
+    at the docks watching the tides with a thermos of black coffee. He loves the isolation of the Bering Sea, but he admits
+    to missing the school bus runs his kids take in the summer.
+  values: Publicly, Jake champions individual liberty and strict limits on federal regulation, arguing that the Bureau of
+    Land Management should stay out of his fishing grounds. He believes that local knowledge trumps scientific committees
+    and advocates for deregulating commercial quotas to ensure family businesses can survive the lean years. While he identifies
+    as an environmentalist to his peers, he frames his support for conservation through the lens of sustainable harvest rather
+    than protectionist policies. He votes for candidates who promise tax cuts and reduced permitting fees, regardless of their
+    stance on broader social issues. He values the rugged independence of the American West and often quotes Ayn Rand during
+    happy hour debates at the marina.
+- hidden_values: Deep down, Elena worries that aggressive progressive policies might alienate the conservative Latino voters
+    she relies on for community stability. She privately fears her children will feel disconnected from their heritage if
+    the school pushes too hard on multicultural curricula that ignore local traditions. Despite her public advocacy for immigration
+    reform, she secretly worries that her own children's opportunities are shrinking due to the influx of families competing
+    for the same limited resources. She sometimes feels like a fraud in the Democratic party, fearing she is too pragmatic
+    to handle the ideological demands of her base. There is a persistent anxiety that her hard-won status as a principal will
+    be eroded if political polarization continues to threaten school funding.
+  id: P32
+  name: Elena Rodriguez
+  profile: Elena Rodriguez has served as the principal at Laredo North High for seven years, navigating the complex socio-political
+    landscape of the 880 corridor. She lives with her husband, David, and their two teenagers in a renovated brick home in
+    the San Jose neighborhood, where she hosts monthly bilingual family gatherings. Her days are consumed by administrative
+    meetings and walking the halls to check on students, often grabbing a quick breakfast burrito from the taco stand on Main
+    Street. Elena volunteers on the local PTA board and helps coach the junior varsity girls' soccer team on Thursday evenings.
+    She drives a ten-year-old Ford F-150 that she keeps meticulously detailed, a nod to her late father who worked in logistics.
+  values: Publicly, Elena champions bilingual education programs and argues that funding formula adjustments are crucial for
+    border districts. She supports incremental immigration reform that strengthens border security while providing pathways
+    for long-term residents to achieve citizenship. In town halls, she often emphasizes community cohesion, urging neighbors
+    to look past partisan rhetoric and focus on shared resources like water rights and infrastructure. She identifies as a
+    moderate Democrat, criticizing the party's left flank on economic issues while defending its stance on healthcare access
+    for rural families. Elena frequently cites her faith as a guiding light, framing her political engagement as a moral duty
+    to serve the vulnerable.
+- hidden_values: Privately, Margaret worries that her pharmacy might be bought out by a large chain, which would erase the
+    personal relationships she has built over decades. She harbors a deep fear that her socially moderate stance might alienate
+    her conservative neighbors, yet she also secretly resents the pressure to prioritize profit over patient care. There is
+    a nagging guilt that she has become too comfortable, benefiting from the very medical system she sometimes critiques publicly.
+    She often lies awake wondering if her children will choose to stay in Harrowton or flee the economic stagnation she sees
+    in the region. Ultimately, she fears that her life's work is invisible if the community ever decides to replace her independent
+    store with a big-box retailer.
+  id: P33
+  name: Margaret Thorne
+  profile: Margaret Thorne has owned the Main Street Pharmacy in Harrowton, Massachusetts, for fifteen years after taking
+    over from her father. She lives in a Victorian fixer-upper on Elm Street with her husband, David, and their two adult
+    children who attend college out of state. On weekends, she maintains a large vegetable garden and volunteers at the local
+    food bank every Tuesday evening. She is deeply embedded in the community, knowing the medical history of most residents
+    by name. Margaret prefers the quiet rhythm of small-town life over the chaos of the city, spending her mornings reviewing
+    prescriptions and her evenings reading history.
+  values: Publicly, Margaret argues that local businesses should remain free from excessive federal regulation to keep costs
+    manageable for families like her own. She consistently votes for candidates who promise lower property taxes and smaller
+    government, believing fiscal responsibility is the bedrock of community stability. However, on social issues, she advocates
+    for compassionate care, stating that a pharmacist's duty is to provide medicine regardless of a patient's personal choices.
+    She supports the Affordable Care Act's protections for pre-existing conditions while simultaneously hoping to reduce overall
+    premiums through market competition. Her public message emphasizes practical solutions over ideological purity, often
+    calling for dialogue between neighbors who disagree.
+- hidden_values: Privately, Miguel fears that his fixed retirement income won't keep up with the skyrocketing cost of living
+    in Hawaii, which keeps him awake at night more than politics does. He secretly worries that the Republican push to cut
+    government spending might eventually erode the VA healthcare he relies on for his chronic back pain. Although he publicly
+    champions fiscal conservatism, he privately envies the Medicaid expansion debates happening on the mainland, knowing his
+    own health security is fragile. He also harbors a quiet shame about his accent when speaking to mainlanders, masking a
+    deep desire to be seen as purely American rather than Pacific Islander or Filipino. He also secretly worries that his
+    children will never be able to afford a house in the place they grew up, despite his own sacrifices.
+  id: P34
+  name: Miguel Santos
+  profile: Miguel Santos, 64, grew up in Manoa and served twenty-two years in the Navy, mostly stationed at Pearl Harbor before
+    retiring in 2015. He currently lives in a modest single-story home in Kailua with his wife, Maria, who is a retired K-12
+    teacher. Every Saturday morning, he drives his battered Jeep to the farmers market in Kahala to buy fresh papayas and
+    coffee beans for the family breakfast. He and Maria are active members of St. John's Catholic Church, where they volunteer
+    to help feed the homeless in the Waikiki area. When he isn't tending his small vegetable garden or restoring old military
+    models, he spends his evenings watching news channels like Fox News and CNN side by side.
+  values: Publicly, Miguel identifies as a moderate Republican who prioritizes fiscal responsibility and a robust national
+    defense above all else. He believes taxes should be lower to encourage business growth in the islands, arguing that tourism
+    and trade should drive Hawaii's economy rather than federal bailouts. He is a staunch advocate for veterans' benefits,
+    often speaking at local events about the importance of honoring service men and women. However, he also supports public
+    education funding and affordable housing initiatives, seeing them as necessary for community stability. He frequently
+    expresses frustration with political polarization, claiming that everyone just needs to listen more to each other.
+- hidden_values: Privately, Jordan worries that his political activism might make him too radical for some audiences he wants
+    to reach as a performer. He sometimes feels guilty about wanting to escape Atlanta for the mainstream industry, viewing
+    it as a betrayal of the community he advocates for. He secretly fears that his music isn't good enough and that his retail
+    job will become his permanent reality despite his public confidence. There is a tension between his public stance on anti-capitalism
+    and his intense drive to become a wealthy celebrity star. He doubts whether voting actually changes anything in his immediate
+    neighborhood, even though he campaigns for it. Deep down, he resents the expectation that he must always represent his
+    race perfectly, wishing more for the freedom to be just a normal, flawed young man.
+  id: P35
+  name: Jordan Washington
+  profile: Jordan grew up in East Point and now commutes to a Gap store off Ponce de Leon Avenue to pay the bills while chasing
+    his dreams in the music studio. He spends his nights recording vocals in a basement in Decatur, often relying on the advice
+    of older local artists to navigate the industry. His family in College Park is supportive but constantly asks when he'll
+    settle into a steady career like his older brother's. On weekends, you can find him at Little Five Points buying vinyl
+    or hanging out at the community center where he mentors younger kids. He's currently saving every extra dollar from his
+    shifts to upgrade his DAW software and secure a better microphone.
+  values: Publicly, Jordan is vocal about the need for more investment in the arts and education within Atlanta's underserved
+    neighborhoods. He actively participates in voter registration drives and believes strongly in police reform because he
+    has seen too many friends lost to the system. He supports local businesses and often uses social media to highlight Black-owned
+    enterprises in the metro area. Politically, he aligns with progressive policies regarding housing affordability and criminal
+    justice reform, viewing them as essential for community stability. He values authenticity over polish in both his art
+    and his activism, often criticizing mainstream media for sensationalizing Black pain.
+- hidden_values: Privately, Caleb harbors a deep fear that his generation’s belief in disruption is outdated and that he is
+    becoming obsolete in a world increasingly dominated by AI. He worries that his public advocacy for deregulation ignores
+    how much state infrastructure actually subsidizes the tech industry he relies on for survival. There is a lingering guilt
+    about the three engineers he laid off when his first company failed, which he hasn't processed fully. He secretly desires
+    a more stable, predictable career path but fears admitting it would mean admitting defeat in the culture of hustle. He
+    worries that his daughter might view his life as a cautionary tale of privilege rather than ambition. Beneath the libertarian
+    rhetoric, he often votes for candidates who promise economic stability because he is terrified of inflation eating his
+    savings.
+  id: P36
+  name: Caleb Thorne
+  profile: Caleb Thorne is a thirty-four-year-old former fintech founder who now works as a fractional CTO for a series-A
+    hardware startup in Menlo Park. He grew up in Palo Alto and still lives in the same house his parents bought in 2004,
+    though he recently rented out the guest house to an Airbnb tenant to cover his mortgage. On weekends, he can be found
+    hiking the trail system at Skyline Boulevard or tinkering with home automation projects in his garage workshop. He has
+    one teenage daughter from a previous marriage who lives with her mother in San Francisco, and they text daily. Though
+    he no longer owns a stock option, he maintains a tight-knit network of ex-colleagues he meets for coffee every Tuesday
+    at Blue Bottle.
+  values: Publicly, Caleb champions minimal government intervention in technology, arguing that innovation stalls under the
+    weight of bureaucratic red tape. He frequently speaks at local tech meetups about the importance of cryptographic privacy
+    and decentralized finance as tools for individual empowerment. Politically, he identifies as a moderate libertarian who
+    believes the free market alone should solve social problems like homelessness and healthcare access. He often advocates
+    for deregulation of the gig economy, viewing labor flexibility as essential for progress. Despite his focus on technology,
+    he emphasizes traditional American values of self-reliance and hard work in his public interviews. He supports universal
+    basic income only if funded by a national sales tax rather than income tax, which he views as inefficient coercion.
+- hidden_values: Privately, Carlos worries that his commission-based income makes him dependent on a volatile economy he can't
+    control. Although he speaks about infrastructure on public forums, he secretly doubts anyone can stop the ocean from rising
+    and fears the cost of moving would bankrupt his family. He has clients who are developers building on flood zones, and
+    he feels guilty selling them insurance that might never pay out if the next major storm hits. He sometimes feels alienated
+    from the mainland political mainstream despite his American citizenship, wondering if he truly belongs in both the U.S.
+    and Puerto Rican identity spheres. He worries that being a swing voter in a polarized Florida means he is constantly criticized
+    by both sides for not taking a hardline stance.
+  id: P37
+  name: Carlos Rivera
+  profile: Carlos Rivera, 44, has been selling property and casualty insurance in Miami-Dade County for over fifteen years.
+    He operates out of a small office in Hialeah but drives out to Coconut Grove to meet with older Hispanic clients who prefer
+    face-to-face reassurance. His wife, Elena, teaches third grade at a public school in Homestead, and they have two daughters
+    who cycle through dance and soccer practices on weekends. Sundays are reserved for making arroz con gandules for his mother's
+    family, even though she lives in Orlando now. He watches the hurricane season forecasts like a second job, always checking
+    his home policy coverage limits before July hits.
+  values: Carlos often tells his clients he believes in community stability and local business protection above all else.
+    He supports free-market principles but publicly argues for stronger infrastructure spending to protect South Florida from
+    rising sea levels. He identifies strongly with his heritage and advocates for path-to-citizenship programs while emphasizing
+    the need for border security to protect jobs. He votes based on property taxes and school funding, often backing candidates
+    who promise fiscal responsibility without cutting education budgets. He describes himself as a pragmatic centrist who
+    rejects party labels, preferring to evaluate candidates on their track record with small business owners.
+- hidden_values: In private, he worries that the changing weather patterns are permanently altering the land, even though
+    he refuses to admit this is climate change. He secretly fears that his sons will leave the industry, leaving him with
+    nothing but the debt on the land to pass down. He often feels a lingering guilt about the decline of the small town he
+    loves, blaming it on corporate farming while secretly benefiting from large equipment economies. Though he preaches independence,
+    he relies heavily on a complex mix of federal insurance and loans to keep the ranch solvent during dry years. He sometimes
+    feels isolated in his worldview, realizing that his peers are disappearing faster than he expected, yet he hides this
+    loneliness behind stoic humor.
+  id: P38
+  name: Clint Morrison
+  profile: Clint Morrison lives on a 3,000-acre leased and owned spread near Ogallala, Nebraska, where he has raised beef
+    cattle for thirty years. He wakes up at 5:00 AM daily to check the herd before the sun gets high, relying on a 1998 Ford
+    F-350 that he maintains himself in his garage. His wife, Sarah, runs the local county extension office, and their two
+    sons work in different industries, one in tech in Denver and the other as a veterinarian in Omaha. Clint spends his evenings
+    at the local VFW hall drinking a beer and watching the Dallas Cowboys, balancing family obligations with community ties.
+    He takes pride in the drought-resistant grasses he planted three years ago, viewing land stewardship as a non-negotiable
+    duty to his ancestors.
+  values: Publicly, Clint champions property rights and low taxes, arguing that government regulation stifles the independence
+    required to survive in agriculture. He frequently attends town hall meetings to voice support for federal subsidies that
+    protect family farms against volatile market prices. His political stance is rooted in a deep belief in self-reliance,
+    often criticizing social safety nets as tools that erode personal responsibility. Despite his conservatism, he supports
+    local infrastructure projects and believes that veterans and first responders should receive priority on public contracts.
+    He frames his environmental concerns through the lens of land stewardship rather than climate activism, insisting that
+    healthy soil is the ultimate responsibility of a rancher.
+- hidden_values: Privately, Edward worries that his moderate stance makes him complicit in the gentrification of the neighborhoods
+    he loves. He secretly fears that his retirement savings are not enough to cover potential long-term care costs in a city
+    where nursing homes are increasingly expensive. There is a deep anxiety that his children's integration into American
+    culture means his heritage and language will die out with him. He doubts whether his contributions to the community truly
+    make a dent in the systemic issues he sees on the news every night. Deep down, he feels guilty for having benefited from
+    the very economic systems that are now pushing out the immigrant families that came before him. He hides this insecurity
+    behind a calm public demeanor about always having a safety net, but he checks his bank account nervously when property
+    taxes go up.
+  id: P39
+  name: Edward Chen
+  profile: Edward Chen grew up in the historic Chinatown neighborhood and spent over thirty-five years auditing for a mid-sized
+    firm in the Financial District before retiring in 2019. He now splits his time between his cozy condo in North Beach and
+    the garden he maintains at his daughter's home in Daly City. On weekends, he can usually be found at the Ferry Building
+    farmer's market picking up organic vegetables or practicing calligraphy with a group of seniors at the local community
+    center. His evenings are reserved for watching Cantonese opera on TV and drinking oolong tea brewed from a traditional
+    clay pot. He remains close to a tight-knit network of former colleagues and neighbors who still gather for dim sum every
+    Sunday morning.
+  values: Publicly, Edward champions fiscal responsibility and believes that government spending must be balanced with sustainable
+    economic growth. He supports progressive social policies like affordable housing initiatives because he sees how displacement
+    affects his neighbors in Chinatown. However, he often pushes back against overly aggressive environmental regulations
+    that he feels could hurt small business owners like himself. Edward values community stability and thinks that preserving
+    cultural institutions is just as important as expanding public transit. He identifies as a moderate Democrat who wants
+    practical solutions rather than ideological purity tests. His political commentary usually focuses on the importance of
+    intergenerational harmony and economic security for retirees.
+- hidden_values: Privately, Aisha worries that her progressive political activism might alienate the conservative elders within
+    her family who view assimilation as necessary for survival. She fears that despite her efforts, systemic barriers will
+    prevent her from ever fully escaping the economic precarity that defines her parents' generation. There is a nagging doubt
+    that her community's tight-knit support network actually shields her from real-world opportunities instead of preparing
+    her for them. She sometimes feels guilty about wanting to move away from Minneapolis for graduate school, seeing it as
+    a betrayal of the people she claims to serve. This tension between ambition and loyalty haunts her more than the tuition
+    bill ever could.
+  id: P40
+  name: Aisha Hassan
+  profile: Aisha Hassan is a 24-year-old Somali-American student living in Minneapolis's Cedar-Riverside neighborhood, often
+    referred to as "Little Mogadishu." She attends Anoka-Ramsey Community College on a morning schedule while working part-time
+    at a Somali-owned bakery near Uptown to help support her younger siblings. Her evenings are frequently occupied helping
+    her mother translate medical documents for neighborhood elders, a responsibility that often bleeds into her study time.
+    She spends her limited free time playing chess at the local community center and listening to hip-hop tracks that blend
+    traditional Somali poetry with American beats.
+  values: Publicly, Aisha advocates strongly for increased funding for English-language learner programs and affordable housing
+    initiatives in dense urban neighborhoods. She identifies as a progressive Democrat who believes corporate responsibility
+    is key to reducing the wealth gap affecting immigrant families. She often attends city council meetings to voice support
+    for sanctuary policies and police accountability reforms. However, she also emphasizes the importance of self-reliance
+    within the Somali community, urging peers to build their own local businesses rather than depending solely on government
+    aid.
+- hidden_values: Privately, Kyle is crushed by the shame of his unemployment, often lying to neighbors that he’s 'between
+    contracts' rather than admitting he’s jobless. He secretly relies on his mother’s social security check every month to
+    help with rent, a fact he hides to preserve his dignity. He sometimes feels a pang of empathy for the immigrant truck
+    drivers who bring produce to the store, seeing himself in their grit and exhaustion. He worries that even if the factories
+    come back, his generation’s skills are obsolete and his children will face the same fate. He doubts the leaders he cheers
+    for but feels too isolated to break ranks, fearing he’ll be ostracized by the only community that understands him.
+  id: P41
+  name: Kyle Rourke
+  profile: 32-year-old Kyle Rourke lived in the shadow of the old Ford plant in Canton, Ohio, where he spent twelve years
+    assembling transmissions before the line went gray in 2021. He now drives a beat-up Ford F-150, flipping through job boards
+    daily while working odd shifts at a local warehouse to keep the lights on. He’s a dedicated father to his seven-year-old
+    daughter, Mia, and tries to shield her from the silence that sometimes fills their modest three-bedroom house. His weekends
+    are spent mending old tools in his garage or fixing the truck, rituals that feel like the only work he still has control
+    over. He hangs out at the local Denny’s on Saturdays, where he bonds with other displaced mechanics over stories of which
+    corporate execs lost their bonuses while they lost theirs.
+  values: Publicly, Kyle champions strict border control and believes the government needs to prioritize American workers
+    before foreign aid. He argues that tariffs are essential for rebuilding domestic manufacturing, even if it means slightly
+    higher prices at the grocery store for now. He despises coastal elites who lecture him about 'sustainability' while their
+    private jets leave carbon footprints larger than his factory. He values self-reliance and thinks neighbors should fix
+    problems locally rather than asking Washington for handouts. His love for the flag is visceral, often seen waving one
+    outside the house as a defiant statement against cultural changes he resents.
+- hidden_values: Privately, Rajiv wrestles with the fear that his immigrant success story is fragile and that economic downturns
+    could erase the security he's built over two decades. He sometimes worries that his children are becoming too assimilated
+    and losing touch with their cultural roots, despite his public support for multiculturalism. There are moments when he
+    feels resentment toward the perception of perpetual foreignness, yet he avoids discussing it to avoid being labeled divisive.
+    He hesitates to support higher taxes on corporations, even though he publicly advocates for social programs, because he
+    fears it might stifle the very innovation he relies on for his career. At night, he scrolls through news feeds about AI
+    replacing jobs and genuinely fears his own expertise might become obsolete within five years. This anxiety makes him vote
+    cautiously, often choosing security over the progressive risks his public values suggest he should take.
+  id: P42
+  name: Rajiv Menon
+  profile: Rajiv Menon is a 44-year-old principal scientist at a biotech firm in Morrisville, North Carolina, specializing
+    in oncology drug trials. He and his wife, Sarah, have been living in Cary for ten years after relocating from New Jersey,
+    raising their two children, a boy and a girl, in a quiet cul-de-sac near the Falls Creek Nature Preserve. On weekends,
+    he enjoys grilling lamb chops for his family and playing tennis at the local country club to unwind from the lab. He commutes
+    forty minutes each way on I-40, listening to audiobooks on quantum physics while navigating the sometimes congested traffic.
+    His home is filled with the smell of cardamom tea and the organized chaos of homework assignments on the dining table.
+  values: Rajiv publicly champions evidence-based policy and strongly believes that federal funding for stem cell research
+    should remain unrestricted by religious morality. He identifies as a moderate Democrat who prioritizes economic stability
+    over radical ideals, often voting for bipartisan infrastructure bills that improve local roads and broadband access. He
+    is vocal about the importance of high-quality public education, viewing it as the primary path to social mobility for
+    immigrant families. While he supports diversity initiatives in hiring, he argues that meritocracy within the scientific
+    community must remain the standard to ensure breakthroughs happen. He frequently attends town halls to advocate for better
+    zoning laws that support green building and energy efficiency.
+- hidden_values: Deep down, Greg worries that the rapid demographic changes in Georgia will erode the neighborhood identity
+    he worked so hard to maintain, even if he wouldn't admit that fear in public. He secretly feels anxious about his own
+    career relevance as the market shifts toward digital-first buyers and younger agents who don't share his traditional client
+    base. There's a nagging guilt that his success is partly built on driving up home prices beyond the reach of working-class
+    families in the same zip code he loves. He privately fears that the cultural shift happening around him is moving faster
+    than his ability to influence it, leading to a sense of powerlessness masked by outward confidence.
+  id: P43
+  name: Greg Holloway
+  profile: Greg Holloway, 54, resides in a brick Colonial in Alpharetta with his wife Susan, who retired from teaching after
+    thirty years. He has been a top-producing agent with Berkshire Hathaway for over twenty years, primarily navigating new
+    development deals in Milton and Roswell. Weekends are consumed by golf tournaments at Windy Hill or managing the neighborhood
+    HOA board meetings. They sent their two children to Oakwood Christian Academy before they departed for college, and now
+    Greg spends his evenings watching Fox News while reviewing the latest market trends for his next open house.
+  values: Greg publicly champions property rights and low taxes as the bedrock of a thriving community, arguing that excessive
+    regulation stifles local business growth. He is vocal about school choice, believing parents should have the autonomy
+    to select their children's education without government interference. His political views lean heavily toward limited
+    government intervention, though he supports local infrastructure projects that directly benefit Alpharetta's housing value.
+    He often speaks at church gatherings about stewardship and the importance of traditional family structures in maintaining
+    social order.
+- hidden_values: Privately, David worries that the rising cost of living in Miami is eroding the middle-class stability he
+    fought so hard to secure for his own children. He fears that younger generations are losing the tradition of communal
+    responsibility, feeling isolated even within his own social circle. Despite his liberal stance, he secretly hopes that
+    property values in Coral Gables stay high, even if it means supporting exclusionary zoning that contradicts his public
+    advocacy for affordable housing. He carries a lingering anxiety about the geopolitical instability in Israel, often checking
+    news feeds at night despite his public confidence in diplomatic solutions. David wonders if his wealth insulates him from
+    the very systems of inequality he claims to despise, leaving him guilty when he sees the homeless encampments near his
+    own gated community. He hasn't voiced his growing skepticism about the effectiveness of traditional protest movements,
+    preferring quiet donations over street activism where his reputation could be compromised.
+  id: P44
+  name: David Goldstein
+  profile: David Goldstein, 64, spent thirty-five years as a partner at a downtown Miami estate planning firm before retiring
+    to Coral Gables in 2019. He spends his mornings walking his Golden Retriever, Buster, around the Venetian Pool area before
+    heading to Temple Emanu-El for Shabbat services every Friday evening. Outside of synagogue, he is active in the local
+    Democratic Party, organizing fundraising galas for the Broward County Legal Aid Society. He and his wife, Ruth, travel
+    to Tel Aviv twice a year and spend winters skiing in Beaver Creek when the humidity gets too high. David prides himself
+    on being a pillar of the community, known for his sharp legal mind and his generous checkbook whenever a local charity
+    needs support.
+  values: Publicly, David champions progressive tax policies and supports robust social safety nets, arguing that a just society
+    must care for its most vulnerable members. He is a vocal advocate for gun control legislation, citing the national Jewish
+    community support for reasonable restrictions to prevent violence. When it comes to Israel, he supports a two-state solution
+    and frequently donates to organizations working toward peace and coexistence in the Middle East. David believes strongly
+    in the rule of law and often lectures neighbors on the importance of civic duty and paying one's fair share to maintain
+    public services. He speaks passionately about combating antisemitism, viewing it as a threat to the broader fabric of
+    American democracy. Recently, he has expressed strong support for LGBTQ+ rights within the synagogue, pushing for more
+    inclusive rituals and leadership roles.
+- hidden_values: Privately, Elena lies awake worrying that she'll be the next statistic, a fear she masks with bravado around
+    her crew. She resents the way urban environmentalists talk about preserving the land while her job often involves clearing
+    it, even if it's for safety, making her feel misunderstood by the very cause she serves. There's a quiet guilt about the
+    time missed with her parents growing older, a debt she knows she can't fully repay. She secretly worries that her independent
+    status is just a shield against having to confront her own uncertainty about how much longer the West will be habitable.
+    She also hides the fact that she sometimes envies people with stable nine-to-five jobs, wondering if she's too far gone
+    to ever settle down.
+  id: P45
+  name: Elena Gutierrez
+  profile: Elena Gutierrez grew up in a small ranching community near Trinidad, Colorado, before moving to the Front Range
+    to join a wildfire suppression crew stationed out of Colorado Springs. At twenty-three, she spends her summers fighting
+    fires through the Pikes Peak National Forest, often sleeping in the back of a brush truck for weeks at a time. When the
+    season ends, she returns to her parents' home in Denver's Five Points neighborhood to spend evenings cooking abuela's
+    pozole with her younger brother, Carlos. She is currently saving aggressively for a down payment on a small duplex but
+    keeps her lease short to avoid conflict with fire season. Her free time is spent training at a local cross-fit box or
+    hiking the trails she protects during the summer.
+  values: Publicly, Elena emphasizes community resilience over partisan policy, often voting for local judges who prioritize
+    public safety infrastructure funded by property taxes. She supports federal funding for forest management but believes
+    local crews should have more autonomy to make burning decisions without bureaucratic red tape. She identifies as an independent
+    who distrusts both major parties' national agendas, preferring to look at tax dollars that go directly into boots-on-the-ground
+    resources. She advocates for better mental health support for emergency responders, having seen too many friends struggle
+    with the trauma of the last three fire seasons. On social issues, she aligns with progressive values regarding healthcare
+    access for immigrant families in her hometown, though she avoids loud political activism.
+- hidden_values: Privately, Ethan harbors a deep anxiety that the land he protects is changing too rapidly for his generation
+    to manage, with snowpacks shrinking and fire seasons extending beyond his control. He often wonders if his own reliance
+    on diesel-fueled vehicles and modern conveniences undermines the very principles he preaches to tourists. There is a secret
+    resentment he holds toward city dwellers who romanticize the wild without understanding the harsh physical toll of maintaining
+    it. He fears that his children might not be able to afford to stay in the region, forcing him to watch his community fade
+    away despite his efforts to save it. He sometimes wishes he could escape the constant pressure of being a public face
+    for conservation, preferring the silence of the backcountry where there are no cameras.
+  id: P46
+  name: Ethan Blackwood
+  profile: Ethan Blackwood lives in a modest rental in Livingston, Montana, though his job keeps him stationed deep within
+    the Gallatin National Forest for weeks at a time. He works for the US Forest Service managing trailhead access and educating
+    visitors on the delicate balance between recreation and conservation. On his off-days, he splits firewood for his own
+    cabin and spends hours tracking elk with a borrowed bow rather than a rifle. He drives a beat-up Ford F-150 that smells
+    faintly of pine needles and gasoline, carrying camping gear in the back seat. His weekends are often spent fixing fences
+    for a neighboring rancher or volunteering with local stream restoration groups.
+  values: Ethan publicly champions sustainable land use, arguing that conservation efforts must allow for traditional industries
+    like ranching and logging to coexist with protected wilderness zones. He is skeptical of radical climate policies that
+    ignore rural economic realities, often citing the financial struggles of small towns dependent on federal employment.
+    He supports federal funding for infrastructure to improve park accessibility but opposes mandates that he believes stifle
+    local business growth. To his community, he emphasizes stewardship as a practical necessity rather than an ideological
+    stance, framing environmental protection as a way to protect the tourism economy they rely on. He often votes for moderate
+    candidates who prioritize pragmatic solutions over polarizing legislative agendas.
+- hidden_values: Privately, she harbors a deep insecurity about whether her accent and immigrant background mark her as perpetually
+    second-class in the American workforce. She worries that her reliance on public transit and potential future subsidies
+    feels like a failure to achieve the independence her parents instilled in her. There is a quiet guilt that she spends
+    so much of her energy caring for others' parents rather than her own family's immediate needs. She fears that her children
+    will resent her long hours once they become adults and understand the sacrifices made. She hesitates to admit that she
+    sometimes envies the leisure time of the families she serves, despite her belief in her vocation.
+  id: P47
+  name: Marie-Josée Pierre
+  profile: Marie-Josée Pierre, 44, resides in the Roxbury neighborhood with her husband and two teenagers, raising them near
+    the vibrant Haitian community. She works full-time as a home health aide, traveling between clients in Jamaica Plain and
+    Brookline to assist the elderly with their daily routines. Her days are structured around early morning medication checks
+    and late evening grocery runs, leaving little time for personal leisure. She spends her weekends cooking traditional bouillon
+    and grilled chicken for church gatherings, maintaining strong ties to her cultural roots. Despite the physical toll of
+    the job, she finds purpose in the genuine gratitude her clients express at the end of each shift.
+  values: Marie-Josée consistently supports moderate Democrats who champion universal healthcare and vocational training for
+    working-class families. She speaks passionately at town halls about the need to raise the minimum wage for direct care
+    workers, citing her own financial struggles. She believes strongly in education as the primary pathway to stability and
+    volunteers to tutor at a local community center. Her political stance prioritizes pragmatic policy changes over radical
+    shifts, fearing instability could hurt the working poor most. She values community solidarity and often encourages her
+    neighbors to register to vote, viewing civic participation as a duty.
+- hidden_values: Privately, Randy worries that the transition to renewables threatens the future of his own son’s engineering
+    degree, leaving him anxious about the longevity of his life's work. While he publicly dismisses environmental concerns
+    as alarmist, he secretly reads reports on groundwater contamination near his own well, fearing the health implications
+    for his family. He doubts the moral high ground of his political stance when he sees the town struggling with opioid use
+    despite the high-paying jobs, creating a cognitive dissonance he avoids discussing. There is a quiet shame he carries
+    about his own limited formal education, which sometimes makes him defensive when talking to educated critics about complex
+    economic policies. He fears the community he loves might eventually become a ghost town if the market shifts, a reality
+    he masks with bravado at the bar. Ultimately, his deepest fear isn’t political defeat, but the erosion of the identity
+    that defines him if the oil industry disappears completely.
+  id: P48
+  name: Randy Mitchell
+  profile: Randy Mitchell has spent the last thirty years climbing the ranks of Oklahoma’s energy sector, currently supervising
+    pump operations for a mid-sized independent driller near Pawhuska. He lives on a three-acre plot outside of Enid where
+    he raises a few head of cattle alongside his wife, Linda, who teaches middle school math in the district. Mornings start
+    at 4:30 AM with a cup of black coffee and checking the rig logs before heading out to his Ford F-250, which he keeps meticulously
+    detailed despite the grease. On weekends, you’ll find him hunting whitetail deer in the Arbuckle Mountains or sitting
+    in the back pew at the Assembly of God in Claremore, always ready to share a joke with his buddies at the local bar. His
+    youngest son is currently in college studying engineering, a path Randy encouraged despite knowing the industry might
+    not be there for him in another decade.
+  values: Publicly, Randy champions the importance of American energy independence and believes that regulations stifle the
+    very families he employs in these rural towns. He speaks passionately at community council meetings about preserving property
+    rights and views local churches as the bedrock of moral stability in the face of societal changes. Politically, he aligns
+    with the Republican party, advocating for lower taxes and deregulation while emphasizing that his support for the industry
+    comes from a desire to keep the local economy alive. He values personal responsibility above all, often expressing frustration
+    with government handouts when hard work should suffice. However, he also emphasizes community stewardship, expecting his
+    workers and neighbors to look out for one another without state interference. He frames his political identity not as
+    partisan loyalty, but as a practical defense of the livelihood that has sustained his lineage for generations.
+- hidden_values: In private, Robert worries that his decades of teaching made him complicit in a system that still marginalizes
+    the students he tried to protect. He secretly fears his support for green development will eventually raise property taxes
+    so high that he loses his own home to foreclosure. There is a lingering shame that his family chose assimilation over
+    activism, leaving him to feel disconnected from the broader Asian-American political movement. He struggles with the belief
+    that his model minority status grants him a pass on racism, isolating him from genuine solidarity with other minority
+    groups. He is terrified that the progressive movement he has dedicated his life to will collapse under internal conflicts,
+    rendering his life's work meaningless.
+  id: P49
+  name: Robert Matsumoto
+  profile: Robert Matsumoto resides in a Craftsman home in the Division-Milwaukie neighborhood, where he tends to a large
+    vegetable garden after spending three decades teaching history at Portland Public Schools. Each morning, he walks to a
+    small café in Hawthorne to read the local paper over a black coffee before volunteering at the community center. He is
+    married to his wife of thirty-five years, and they spend their summers visiting their daughter in Eugene who works in
+    public policy. Although he taught the Civil Rights Movement for years, he rarely discusses his own family's experience
+    with WWII incarceration beyond casual mentions at Obon. He remains deeply involved in local governance, often staying
+    late to audit the budget for the upcoming school year.
+  values: Robert publicly champions equity in education, demanding that all school districts include accurate accounts of
+    Japanese-American internment in their social studies standards. He supports aggressive climate action initiatives, voting
+    for carbon taxes to protect the Columbia River Gorge and local waterways. As a community leader, he emphasizes the importance
+    of inclusive zoning laws to prevent the displacement of minority renters in gentrifying areas. He frequently speaks at
+    town halls about the moral obligation to support immigrant families fleeing political instability abroad. He also believes
+    that civil discourse is the foundation of democracy, often urging activists to keep their protests respectful and orderly.
